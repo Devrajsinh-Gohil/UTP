@@ -5,6 +5,7 @@ import ssl
 import pandas as pd
 import streamlit as st
 
+# This is needed to allow self-signed certificates
 def allowSelfSignedHttps(allowed):
     # bypass the server certificate verification on client side
     if allowed and not os.environ.get('PYTHONHTTPSVERIFY', '') and getattr(ssl, '_create_unverified_context', None):
