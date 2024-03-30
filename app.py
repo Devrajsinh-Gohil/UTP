@@ -1,9 +1,17 @@
 import urllib.request
 import json
 import os
+from dotenv import load_dotenv
 import ssl
 import pandas as pd
 import streamlit as st
+
+load_dotenv()
+
+# get env vars
+API_URL = os.getenv('API')
+API_KEY = os.getenv('KEY')
+API = os.getenv('ENDPOINT')
 
 # This is needed to allow self-signed certificates
 def allowSelfSignedHttps(allowed):
@@ -26,15 +34,15 @@ data = st.session_state.req
 
 body = str.encode(data)
 
-url = 'api_url'
+url = API_URL
 # Replace this with the primary/secondary key or AMLToken for the endpoint
-api_key = 'api_key'
+api_key = API_KEY
 if not api_key:
     raise Exception("A key should be provided to invoke the endpoint")
 
 # The azureml-model-deployment header will force the request to go to a specific deployment.
 # Remove this header to have the request observe the endpoint traffic rules
-headers = {'Content-Type':'application/json', 'Authorization':('Bearer '+ api_key), 'azureml-model-deployment': 'endpoint' }
+headers = {'Content-Type':'application/json', 'Authorization':('Bearer '+ api_key), 'azureml-model-deployment': API }
 
 req = urllib.request.Request(url, body, headers)
 
