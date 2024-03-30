@@ -1,17 +1,14 @@
 import urllib.request
 import json
 import os
-from dotenv import load_dotenv
 import ssl
 import pandas as pd
 import streamlit as st
 
-load_dotenv()
-
 # get env vars
-API_URL = os.getenv('API')
-API_KEY = os.getenv('KEY')
-API = os.getenv('ENDPOINT')
+API_URL = st.secrets['API']
+API_KEY = st.secrets['KEY']
+API = st.secrets['ENDPOINT']
 
 # This is needed to allow self-signed certificates
 def allowSelfSignedHttps(allowed):
