@@ -15,3 +15,19 @@ The goal is to invent a disruptive talent engagement and hiring experience power
 - **FILTER**: The result is then given to LLM for better filtering and matching the most suitable candidates according to the requirement of Organization.
 - **FORMAT**: After filtering LLM will format the data according to the file format as per the requirement of the platform.
 
+# PROOF OF CONCEPT
+<img width="403" alt="Graph" src="https://github.com/Devrajsinh-Gohil/UTP/assets/103804567/61092f20-7084-46e3-9b66-637243534a9c">
+
+- **TECH STACK**: Azure OpenAI (gpt-35-turbo) for LLM, AzureMachine Learning for using Prompt Flow service and Deployment,Python for interacting with API and Streamlit package to run the User Interface.
+- **INPUT**: User requirement in Natural Language.
+- **DATA** (PYTHON): Due to resource and storage constraints, a dummy dataset in form of python dictionary is used.
+- **GET CANDIDATES** (LLM): filters candidate according to the user input and formats JSON output.
+- **GET JSON** (LLM): The output of GET CANDIDATES is then corrected if anomalies are present and the output assures output is syntactically correct.
+- **OUTPUT**: The output contains the JSON format containing the data of candidates according to the request and sent to User Interface via API deployed.
+
+## Video
+https://github.com/Devrajsinh-Gohil/UTP/assets/103804567/7cac2921-e867-4bdb-85e2-7845c621a00f
+
+
+## DEPLOYMENT
+Deployed using: [Streamlit App](https://utp-pstmt1-poc.streamlit.app/)
