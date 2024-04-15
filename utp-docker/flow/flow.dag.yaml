@@ -1,0 +1,52 @@
+inputs:
+  request:
+    type: string
+    default: Our oragnaiztion need a Data analyst with  5+ years of experience
+outputs:
+  response:
+    type: string
+    reference: ${fetch_data.output}
+nodes:
+- name: db_conn
+  type: python
+  source:
+    type: code
+    path: db_conn.py
+  inputs: {}
+- name: make_query
+  type: llm
+  source:
+    type: code
+    path: make_query_variant_1.jinja2
+  inputs:
+    deployment_name: utp-gpt
+    max_tokens: 500
+    response_format:
+      type: text
+    user_request: ${inputs.request}
+    database_schema: ${db_conn.output}
+    temperature: 0
+  connection: to_replace_with_connection_name
+  api: completion
+- name: fetch_data
+  type: python
+  source:
+    type: code
+    path: fetch_data.py
+  inputs:
+    query: ${optimize_query.output}
+- name: optimize_query
+  type: llm
+  source:
+    type: code
+    path: optimize_query.jinja2
+  inputs:
+    max_tokens: 500
+    response_format:
+      type: text
+    deployment_name: utp-gpt
+    query: ${make_query.output}
+    db_schema: ${db_conn.output}
+    temperature: 0
+  connection: to_replace_with_connection_name
+  api: chat

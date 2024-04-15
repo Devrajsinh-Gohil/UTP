@@ -1,0 +1,224 @@
+{
+  "response": [
+    [
+      1,
+      false,
+      "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+      "A natural science (ex. biology, chemistry, physics)",
+      "Database administrator;DevOps specialist;Full-stack developer;System administrator",
+      30,
+      "JavaScript;Python;Bash/Shell",
+      "Linux",
+      "Male"
+    ],
+    [
+      5,
+      false,
+      "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+      "Computer science, computer engineering, or software engineering",
+      "Back-end developer;Database administrator;Front-end developer;Full-stack developer",
+      8,
+      "Java;JavaScript;Python;TypeScript;HTML;CSS",
+      "Linux",
+      "Male"
+    ],
+    [
+      8,
+      false,
+      "Some college/university study without earning a degree",
+      "Fine arts or performing arts (ex. graphic design, music, studio art)",
+      "Back-end developer;C-suite executive (CEO, CTO, etc.);Data or business analyst;Database administrator;DevOps specialist;Engineering manager;Full-stack developer;System administrator",
+      30,
+      "Assembly;CoffeeScript;Erlang;Go;JavaScript;Lua;Python;Ruby;SQL;HTML;CSS;Bash/Shell",
+      "Amazon Echo;AWS;iOS;Linux;Mac OS;Serverless",
+      "Male"
+    ],
+    [
+      20,
+      false,
+      "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+      "Another engineering discipline (ex. civil, electrical, mechanical)",
+      "Database administrator;Full-stack developer;Mobile developer",
+      17,
+      "C;C++;Go;Python;SQL;Swift",
+      "Android;AWS;iOS;Linux;Mac OS;Firebase",
+      "Male"
+    ],
+    [
+      22,
+      false,
+      "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+      "Computer science, computer engineering, or software engineering",
+      "Back-end developer;Database administrator;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+      11,
+      "C#;JavaScript;PHP;SQL;HTML;CSS",
+      "Linux;Mac OS;Windows Desktop or Server",
+      "Male"
+    ],
+    [
+      35,
+      false,
+      "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+      "Computer science, computer engineering, or software engineering",
+      "Back-end developer;Database administrator;DevOps specialist;Front-end developer;Full-stack developer;Mobile developer",
+      14,
+      "C;C++;Java;JavaScript;PHP;Python;Ruby;SQL;Bash/Shell",
+      "Linux",
+      "Male"
+    ],
+    [
+      58,
+      false,
+      "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+      "Computer science, computer engineering, or software engineering",
+      "Back-end developer;Database administrator;Desktop or enterprise applications developer;DevOps specialist;Full-stack developer;QA or test developer",
+      11,
+      "Java;SQL",
+      "Linux",
+      "Male"
+    ],
+    [
+      62,
+      false,
+      "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+      "Computer science, computer engineering, or software engineering",
+      "Back-end developer;Data scientist or machine learning specialist;DevOps specialist;Educator or academic researcher;QA or test developer;System administrator",
+      14,
+      "C;F#;Haskell;Python;Scala",
+      "IBM Cloud or Watson",
+      "Male"
+    ],
+    [
+      72,
+      false,
+      "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+      "Computer science, computer engineering, or software engineering",
+      "Back-end developer;Database administrator;Designer;Front-end developer;Full-stack developer;Mobile developer;System administrator",
+      8,
+      "JavaScript;PHP;SQL;TypeScript;HTML;CSS;Bash/Shell",
+      "Android;iOS;Linux",
+      "Male"
+    ],
+    [
+      3147,
+      false,
+      "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+      "Web development or web design",
+      "Back-end developer;Database administrator;Designer;DevOps specialist;Front-end developer;Full-stack developer;Mobile developer",
+      8,
+      "JavaScript;PHP;SQL;HTML;CSS",
+      "Android;AWS;iOS",
+      "Male"
+    ],
+    [
+      3160,
+      false,
+      "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+      "Computer science, computer engineering, or software engineering",
+      "Back-end developer;Data scientist or machine learning specialist;Full-stack developer",
+      8,
+      "C#;Java;JavaScript;Python;SQL;HTML;Bash/Shell",
+      "Android;Raspberry Pi",
+      "Male"
+    ],
+    [
+      3163,
+      false,
+      "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+      "Computer science, computer engineering, or software engineering",
+      "Data scientist or machine learning specialist",
+      14,
+      "C;C++;Groovy;Java;Matlab;Objective-C;PHP;Python;R;Scala;SQL;Visual Basic 6;Ocaml;Bash/Shell",
+      "AWS;Raspberry Pi",
+      "Male"
+    ],
+    [
+      3173,
+      false,
+      "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+      "A natural science (ex. biology, chemistry, physics)",
+      "Back-end developer;Data or business analyst;Data scientist or machine learning specialist;Full-stack developer",
+      11,
+      "Groovy;Java;JavaScript;Perl;Python;R;Ruby;SQL;TypeScript;VBA;HTML;CSS;Bash/Shell",
+      "Linux;Mac OS",
+      "Male"
+    ],
+    [
+      3209,
+      false,
+      "Some college/university study without earning a degree",
+      "Computer science, computer engineering, or software engineering",
+      "Back-end developer;Data or business analyst;Database administrator;DevOps specialist",
+      30,
+      "Groovy;Java;Python;SQL;HTML;CSS;Bash/Shell",
+      "Arduino;AWS;ESP8266;Linux;Raspberry Pi;WordPress",
+      "Male"
+    ],
+    [
+      3211,
+      false,
+      "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+      "Computer science, computer engineering, or software engineering",
+      "Back-end developer;Database administrator;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+      5,
+      "C#;Java;JavaScript;PHP;SQL;VB.NET;HTML;CSS",
+      "Azure;Windows Desktop or Server",
+      "Male"
+    ],
+    [
+      28667,
+      false,
+      "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+      "Computer science, computer engineering, or software engineering",
+      "Back-end developer;Data scientist or machine learning specialist;Desktop or enterprise applications developer;Embedded applications or devices developer;Front-end developer;Full-stack developer;Mobile developer",
+      11,
+      "C;Java;JavaScript;PHP;Python;SQL;TypeScript;HTML;CSS;Bash/Shell",
+      "Android;Arduino;ESP8266;Linux;Raspberry Pi",
+      "Male"
+    ],
+    [
+      28669,
+      false,
+      "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+      "Computer science, computer engineering, or software engineering",
+      "Back-end developer;Data scientist or machine learning specialist;Desktop or enterprise applications developer;DevOps specialist;Front-end developer;Full-stack developer",
+      8,
+      "C;C++;Java;JavaScript;Julia;Matlab;Python;R;TypeScript;HTML;CSS",
+      "AWS;Google Cloud Platform/App Engine;Linux",
+      "Female"
+    ],
+    [
+      28673,
+      false,
+      "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+      "Computer science, computer engineering, or software engineering",
+      "Back-end developer;Data or business analyst;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+      11,
+      "Assembly;C++;C#;Java;JavaScript;SQL;VBA;VB.NET;Visual Basic 6;HTML;CSS",
+      "Linux;Windows Desktop or Server",
+      "Male"
+    ],
+    [
+      28676,
+      true,
+      "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+      "Computer science, computer engineering, or software engineering",
+      "Back-end developer;C-suite executive (CEO, CTO, etc.);Data or business analyst;Database administrator;Designer;DevOps specialist;Engineering manager;Front-end developer;Full-stack developer;Mobile developer;Product manager;System administrator",
+      8,
+      "Java;JavaScript;PHP;SQL;TypeScript;HTML;CSS;Bash/Shell",
+      "Android;Azure;Google Cloud Platform/App Engine;Linux;WordPress;Firebase",
+      "Male"
+    ],
+    [
+      28679,
+      true,
+      "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+      "Computer science, computer engineering, or software engineering",
+      "Back-end developer;Database administrator;Desktop or enterprise applications developer;Embedded applications or devices developer;Full-stack developer;Mobile developer",
+      8,
+      "C#;Java;JavaScript;PHP;Python;SQL;VB.NET;HTML;CSS",
+      "Android;AWS;Azure;iOS;Mac OS;Windows Desktop or Server;Firebase",
+      "Male"
+    ]
+  ]
+}

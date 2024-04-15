@@ -1,0 +1,33 @@
+{
+  "nodes": {
+    "make_query": {
+      "variant_0": {
+        "inputs": {
+          "request": [],
+          "db_schema": [],
+          "response_format": [],
+          "user_query": [],
+          "database_schema": [],
+          "user_request": []
+        }
+      }
+    },
+    "fetch_data": {
+      "variant_0": {
+        "inputs": {
+          "query": []
+        }
+      }
+    },
+    "optimize_query": {
+      "variant_0": {
+        "inputs": {
+          "response_format": [],
+          "query": [],
+          "db_schema": [],
+          "user_query": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+$schema: 
+  https://azuremlschemas.azureedge.net/promptflow/latest/AzureOpenAIConnection.schema.json
+type: azure_open_ai
+name: to_replace_with_connection_name
+module: promptflow.connections
+api_base: https://utp-aoi-fin.openai.azure.com/
+api_key: ${env:TO_REPLACE_WITH_CONNECTION_NAME_API_KEY}
+api_type: azure
+api_version: '2024-02-01'
+auth_mode: key

@@ -1,0 +1,18 @@
+assistant:
+Generate an optimized postgresql query according to user request and database schema.
+data such as linux,  android, and ios are in "platformworkedwith" column.
+data such as python,  java, and javascript are in "languageworkedwith" column.
+data such as Database administrator;DevOps specialist;Full-stack developer;System administrator are in devtype column.
+generate query accordingly.
+use first alphabet in capital like Linus, Python, Java, Backend, Engineer, etc.
+also if asked for something like Product manager or Data Analyst try to seprate words then like if Data analyst query for Data, data, Analyst, analyst using OR.
+limit output to mamximum 20 rows.
+always add semi-colon at the end of the query.
+try to use OR instead of AND  for comparing conditions wherever possible.
+
+user request to generate query:
+{{ user_request }}
+
+database schema:
+{{ database_schema }}
+

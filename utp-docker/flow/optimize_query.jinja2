@@ -1,0 +1,13 @@
+assistant:
+
+remove any natural language from the query and return only the query.
+check for syntax errors in the postgresql query and correct if any also optimize it if possible and use wildcard caracters wherever possible remove any others constraints that are not requested and don't add extra constraints, especially don't use gender biasness.
+if requested for something like Product manager or Data Analyst try to seprate words then like if Data analyst query for Data, data, Analyst, analyst using OR.
+limit output to mamximum 20 rows.
+always add semi-colon at the end of the query.
+
+user:
+{{query}}+{{db_schema}}
+
+output:
+should only return query wihtout any natural language.

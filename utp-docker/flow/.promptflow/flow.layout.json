@@ -1,0 +1,35 @@
+{
+  "nodeLayouts": {
+    "inputs": {
+      "x": 290,
+      "y": 42,
+      "index": -1
+    },
+    "outputs": {
+      "x": 385,
+      "y": 578,
+      "index": -1
+    },
+    "db_conn": {
+      "x": 470,
+      "y": 42,
+      "index": 0
+    },
+    "make_query": {
+      "x": 150,
+      "y": 176,
+      "index": 1
+    },
+    "fetch_data": {
+      "x": 305,
+      "y": 444,
+      "index": 2
+    },
+    "optimize_query": {
+      "x": 305,
+      "y": 310,
+      "index": 3
+    }
+  },
+  "orientation": "Vertical"
+}

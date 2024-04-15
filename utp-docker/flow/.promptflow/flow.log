@@ -1,0 +1,13 @@
+2024-04-14 01:20:23 +0530   12912 execution.flow     INFO     Start executing nodes in thread pool mode.
+2024-04-14 01:20:23 +0530   12912 execution.flow     INFO     Start to run 4 nodes with concurrency level 16.
+2024-04-14 01:20:23 +0530   12912 execution.flow     INFO     Executing node db_conn. node run id: 4082d952-f78d-405f-a057-34e50769fa76_db_conn_0
+2024-04-14 01:20:27 +0530   12912 execution.flow     INFO     Node db_conn completes.
+2024-04-14 01:20:27 +0530   12912 execution.flow     INFO     Executing node make_query. node run id: 4082d952-f78d-405f-a057-34e50769fa76_make_query_0
+2024-04-14 01:20:29 +0530   12912 execution.flow     INFO     Node make_query completes.
+2024-04-14 01:20:29 +0530   12912 execution.flow     INFO     Executing node optimize_query. node run id: 4082d952-f78d-405f-a057-34e50769fa76_optimize_query_0
+2024-04-14 01:20:31 +0530   12912 execution.flow     INFO     Node optimize_query completes.
+2024-04-14 01:20:31 +0530   12912 execution.flow     INFO     Executing node fetch_data. node run id: 4082d952-f78d-405f-a057-34e50769fa76_fetch_data_0
+2024-04-14 01:20:31 +0530   12912 execution.flow     INFO     [fetch_data in line 0 (index starts from 0)] stdout> Query: 
+2024-04-14 01:20:31 +0530   12912 execution.flow     INFO     [fetch_data in line 0 (index starts from 0)] stdout>  
+2024-04-14 01:20:31 +0530   12912 execution.flow     INFO     [fetch_data in line 0 (index starts from 0)] stdout> SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;
+2024-04-14 01:20:33 +0530   12912 execution.flow     INFO     Node fetch_data completes.

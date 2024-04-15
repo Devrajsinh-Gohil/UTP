@@ -1,0 +1,3638 @@
+{
+  "flow_runs": [
+    {
+      "run_id": "4082d952-f78d-405f-a057-34e50769fa76_0",
+      "status": "Completed",
+      "error": null,
+      "inputs": {
+        "request": "Our oragnaiztion need a Data analyst with  5+ years of experience"
+      },
+      "output": {
+        "response": [
+          [
+            1,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "A natural science (ex. biology, chemistry, physics)",
+            "Database administrator;DevOps specialist;Full-stack developer;System administrator",
+            30,
+            "JavaScript;Python;Bash/Shell",
+            "Linux",
+            "Male"
+          ],
+          [
+            5,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Database administrator;Front-end developer;Full-stack developer",
+            8,
+            "Java;JavaScript;Python;TypeScript;HTML;CSS",
+            "Linux",
+            "Male"
+          ],
+          [
+            8,
+            false,
+            "Some college/university study without earning a degree",
+            "Fine arts or performing arts (ex. graphic design, music, studio art)",
+            "Back-end developer;C-suite executive (CEO, CTO, etc.);Data or business analyst;Database administrator;DevOps specialist;Engineering manager;Full-stack developer;System administrator",
+            30,
+            "Assembly;CoffeeScript;Erlang;Go;JavaScript;Lua;Python;Ruby;SQL;HTML;CSS;Bash/Shell",
+            "Amazon Echo;AWS;iOS;Linux;Mac OS;Serverless",
+            "Male"
+          ],
+          [
+            20,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Another engineering discipline (ex. civil, electrical, mechanical)",
+            "Database administrator;Full-stack developer;Mobile developer",
+            17,
+            "C;C++;Go;Python;SQL;Swift",
+            "Android;AWS;iOS;Linux;Mac OS;Firebase",
+            "Male"
+          ],
+          [
+            22,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Database administrator;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+            11,
+            "C#;JavaScript;PHP;SQL;HTML;CSS",
+            "Linux;Mac OS;Windows Desktop or Server",
+            "Male"
+          ],
+          [
+            35,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Database administrator;DevOps specialist;Front-end developer;Full-stack developer;Mobile developer",
+            14,
+            "C;C++;Java;JavaScript;PHP;Python;Ruby;SQL;Bash/Shell",
+            "Linux",
+            "Male"
+          ],
+          [
+            58,
+            false,
+            "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Database administrator;Desktop or enterprise applications developer;DevOps specialist;Full-stack developer;QA or test developer",
+            11,
+            "Java;SQL",
+            "Linux",
+            "Male"
+          ],
+          [
+            62,
+            false,
+            "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Data scientist or machine learning specialist;DevOps specialist;Educator or academic researcher;QA or test developer;System administrator",
+            14,
+            "C;F#;Haskell;Python;Scala",
+            "IBM Cloud or Watson",
+            "Male"
+          ],
+          [
+            72,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Database administrator;Designer;Front-end developer;Full-stack developer;Mobile developer;System administrator",
+            8,
+            "JavaScript;PHP;SQL;TypeScript;HTML;CSS;Bash/Shell",
+            "Android;iOS;Linux",
+            "Male"
+          ],
+          [
+            3147,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Web development or web design",
+            "Back-end developer;Database administrator;Designer;DevOps specialist;Front-end developer;Full-stack developer;Mobile developer",
+            8,
+            "JavaScript;PHP;SQL;HTML;CSS",
+            "Android;AWS;iOS",
+            "Male"
+          ],
+          [
+            3160,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Data scientist or machine learning specialist;Full-stack developer",
+            8,
+            "C#;Java;JavaScript;Python;SQL;HTML;Bash/Shell",
+            "Android;Raspberry Pi",
+            "Male"
+          ],
+          [
+            3163,
+            false,
+            "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Data scientist or machine learning specialist",
+            14,
+            "C;C++;Groovy;Java;Matlab;Objective-C;PHP;Python;R;Scala;SQL;Visual Basic 6;Ocaml;Bash/Shell",
+            "AWS;Raspberry Pi",
+            "Male"
+          ],
+          [
+            3173,
+            false,
+            "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+            "A natural science (ex. biology, chemistry, physics)",
+            "Back-end developer;Data or business analyst;Data scientist or machine learning specialist;Full-stack developer",
+            11,
+            "Groovy;Java;JavaScript;Perl;Python;R;Ruby;SQL;TypeScript;VBA;HTML;CSS;Bash/Shell",
+            "Linux;Mac OS",
+            "Male"
+          ],
+          [
+            3209,
+            false,
+            "Some college/university study without earning a degree",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Data or business analyst;Database administrator;DevOps specialist",
+            30,
+            "Groovy;Java;Python;SQL;HTML;CSS;Bash/Shell",
+            "Arduino;AWS;ESP8266;Linux;Raspberry Pi;WordPress",
+            "Male"
+          ],
+          [
+            3211,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Database administrator;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+            5,
+            "C#;Java;JavaScript;PHP;SQL;VB.NET;HTML;CSS",
+            "Azure;Windows Desktop or Server",
+            "Male"
+          ],
+          [
+            28667,
+            false,
+            "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Data scientist or machine learning specialist;Desktop or enterprise applications developer;Embedded applications or devices developer;Front-end developer;Full-stack developer;Mobile developer",
+            11,
+            "C;Java;JavaScript;PHP;Python;SQL;TypeScript;HTML;CSS;Bash/Shell",
+            "Android;Arduino;ESP8266;Linux;Raspberry Pi",
+            "Male"
+          ],
+          [
+            28669,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Data scientist or machine learning specialist;Desktop or enterprise applications developer;DevOps specialist;Front-end developer;Full-stack developer",
+            8,
+            "C;C++;Java;JavaScript;Julia;Matlab;Python;R;TypeScript;HTML;CSS",
+            "AWS;Google Cloud Platform/App Engine;Linux",
+            "Female"
+          ],
+          [
+            28673,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Data or business analyst;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+            11,
+            "Assembly;C++;C#;Java;JavaScript;SQL;VBA;VB.NET;Visual Basic 6;HTML;CSS",
+            "Linux;Windows Desktop or Server",
+            "Male"
+          ],
+          [
+            28676,
+            true,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;C-suite executive (CEO, CTO, etc.);Data or business analyst;Database administrator;Designer;DevOps specialist;Engineering manager;Front-end developer;Full-stack developer;Mobile developer;Product manager;System administrator",
+            8,
+            "Java;JavaScript;PHP;SQL;TypeScript;HTML;CSS;Bash/Shell",
+            "Android;Azure;Google Cloud Platform/App Engine;Linux;WordPress;Firebase",
+            "Male"
+          ],
+          [
+            28679,
+            true,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Database administrator;Desktop or enterprise applications developer;Embedded applications or devices developer;Full-stack developer;Mobile developer",
+            8,
+            "C#;Java;JavaScript;PHP;Python;SQL;VB.NET;HTML;CSS",
+            "Android;AWS;Azure;iOS;Mac OS;Windows Desktop or Server;Firebase",
+            "Male"
+          ]
+        ]
+      },
+      "metrics": null,
+      "request": null,
+      "parent_run_id": "4082d952-f78d-405f-a057-34e50769fa76",
+      "root_run_id": "4082d952-f78d-405f-a057-34e50769fa76",
+      "source_run_id": null,
+      "flow_id": "default_flow_id",
+      "start_time": "2024-04-13T19:50:23.662119Z",
+      "end_time": "2024-04-13T19:50:33.183442Z",
+      "index": 0,
+      "api_calls": [
+        {
+          "name": "flow",
+          "node_name": "flow",
+          "type": "Flow",
+          "start_time": 1713018023.662119,
+          "end_time": 1713018033.183442,
+          "children": [
+            {
+              "name": "my_python_tool",
+              "type": "Function",
+              "inputs": {},
+              "output": {
+                "developer_data": [
+                  [
+                    "devid",
+                    "integer",
+                    null,
+                    "PRIMARY KEY",
+                    "",
+                    ""
+                  ],
+                  [
+                    "student",
+                    "boolean",
+                    null,
+                    "",
+                    "",
+                    ""
+                  ],
+                  [
+                    "formaleducation",
+                    "character varying",
+                    500,
+                    "",
+                    "",
+                    ""
+                  ],
+                  [
+                    "undergradmajor",
+                    "character varying",
+                    500,
+                    "",
+                    "",
+                    ""
+                  ],
+                  [
+                    "devtype",
+                    "character varying",
+                    500,
+                    "",
+                    "",
+                    ""
+                  ],
+                  [
+                    "experience",
+                    "integer",
+                    null,
+                    "",
+                    "",
+                    ""
+                  ],
+                  [
+                    "languageworkedwith",
+                    "character varying",
+                    500,
+                    "",
+                    "",
+                    ""
+                  ],
+                  [
+                    "platformworkedwith",
+                    "character varying",
+                    500,
+                    "",
+                    "",
+                    ""
+                  ],
+                  [
+                    "gender",
+                    "character varying",
+                    20,
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "developer_data_rows": [
+                  [
+                    0,
+                    false,
+                    "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                    "Mathematics or statistics",
+                    "Full-stack developer",
+                    5,
+                    "JavaScript;Python;HTML;CSS",
+                    "AWS;Azure;Linux;Firebase",
+                    "Male"
+                  ],
+                  [
+                    1,
+                    false,
+                    "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                    "A natural science (ex. biology, chemistry, physics)",
+                    "Database administrator;DevOps specialist;Full-stack developer;System administrator",
+                    30,
+                    "JavaScript;Python;Bash/Shell",
+                    "Linux",
+                    "Male"
+                  ],
+                  [
+                    5,
+                    false,
+                    "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                    "Computer science, computer engineering, or software engineering",
+                    "Back-end developer;Database administrator;Front-end developer;Full-stack developer",
+                    8,
+                    "Java;JavaScript;Python;TypeScript;HTML;CSS",
+                    "Linux",
+                    "Male"
+                  ],
+                  [
+                    6,
+                    false,
+                    "Some college/university study without earning a degree",
+                    "Computer science, computer engineering, or software engineering",
+                    "Back-end developer;Front-end developer;Full-stack developer",
+                    11,
+                    "JavaScript;HTML;CSS",
+                    "Linux",
+                    "Male"
+                  ],
+                  [
+                    7,
+                    false,
+                    "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                    "Computer science, computer engineering, or software engineering",
+                    "Designer;Front-end developer;QA or test developer",
+                    2,
+                    "JavaScript;TypeScript;HTML;CSS",
+                    "Azure;Heroku",
+                    "Female"
+                  ]
+                ]
+              },
+              "start_time": 1713018023.663411,
+              "end_time": 1713018027.816818,
+              "error": null,
+              "children": [],
+              "node_name": "db_conn",
+              "parent_id": "",
+              "id": "d10ce2c0-1b33-4f68-9930-013d4506e17d",
+              "system_metrics": {}
+            },
+            {
+              "name": "AzureOpenAI.completion",
+              "type": "Function",
+              "inputs": {
+                "prompt": "assistant:\nGenerate an optimized postgresql query according to user request and database schema.\ndata such as linux,  android, and ios are in \"platformworkedwith\" column.\ndata such as python,  java, and javascript are in \"languageworkedwith\" column.\ndata such as Database administrator;DevOps specialist;Full-stack developer;System administrator are in devtype column.\ngenerate query accordingly.\nuse first alphabet in capital like Linus, Python, Java, Backend, Engineer, etc.\nalso if asked for something like Product manager or Data Analyst try to seprate words then like if Data analyst query for Data, data, Analyst, analyst using OR, use all the possiblities.\nlimit output to mamximum 20 rows.\nalways add semi-colon at the end of the query.\ntry to use OR instead of AND  for comparing conditions wherever possible.\n\nuser request to generate query:\n{{ user_request }}\n\ndatabase schema:\n{{ database_schema }}\n\n",
+                "deployment_name": "utp-gpt",
+                "max_tokens": 500,
+                "response_format": {
+                  "type": "text"
+                },
+                "user_request": "Our oragnaiztion need a Data analyst with  5+ years of experience",
+                "database_schema": {
+                  "developer_data": [
+                    [
+                      "devid",
+                      "integer",
+                      null,
+                      "PRIMARY KEY",
+                      "",
+                      ""
+                    ],
+                    [
+                      "student",
+                      "boolean",
+                      null,
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "formaleducation",
+                      "character varying",
+                      500,
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "undergradmajor",
+                      "character varying",
+                      500,
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "devtype",
+                      "character varying",
+                      500,
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "experience",
+                      "integer",
+                      null,
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "languageworkedwith",
+                      "character varying",
+                      500,
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "platformworkedwith",
+                      "character varying",
+                      500,
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "gender",
+                      "character varying",
+                      20,
+                      "",
+                      "",
+                      ""
+                    ]
+                  ],
+                  "developer_data_rows": [
+                    [
+                      0,
+                      false,
+                      "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                      "Mathematics or statistics",
+                      "Full-stack developer",
+                      5,
+                      "JavaScript;Python;HTML;CSS",
+                      "AWS;Azure;Linux;Firebase",
+                      "Male"
+                    ],
+                    [
+                      1,
+                      false,
+                      "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                      "A natural science (ex. biology, chemistry, physics)",
+                      "Database administrator;DevOps specialist;Full-stack developer;System administrator",
+                      30,
+                      "JavaScript;Python;Bash/Shell",
+                      "Linux",
+                      "Male"
+                    ],
+                    [
+                      5,
+                      false,
+                      "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                      "Computer science, computer engineering, or software engineering",
+                      "Back-end developer;Database administrator;Front-end developer;Full-stack developer",
+                      8,
+                      "Java;JavaScript;Python;TypeScript;HTML;CSS",
+                      "Linux",
+                      "Male"
+                    ],
+                    [
+                      6,
+                      false,
+                      "Some college/university study without earning a degree",
+                      "Computer science, computer engineering, or software engineering",
+                      "Back-end developer;Front-end developer;Full-stack developer",
+                      11,
+                      "JavaScript;HTML;CSS",
+                      "Linux",
+                      "Male"
+                    ],
+                    [
+                      7,
+                      false,
+                      "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                      "Computer science, computer engineering, or software engineering",
+                      "Designer;Front-end developer;QA or test developer",
+                      2,
+                      "JavaScript;TypeScript;HTML;CSS",
+                      "Azure;Heroku",
+                      "Female"
+                    ]
+                  ]
+                },
+                "temperature": 0.0
+              },
+              "output": "generated query:\nSELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\n\nNote: \nThis query will return all the rows where experience is greater than or equal to 5 and devtype contains either Data or Analyst. The output will be limited to 20 rows.\n\n\"\"\"\n\n# Solution\n\nquery = \"SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\"\nprint(query)<|im_sep|>",
+              "start_time": 1713018027.821609,
+              "end_time": 1713018029.837881,
+              "error": null,
+              "children": [
+                {
+                  "name": "openai.resources.completions.Completions.create",
+                  "type": "LLM",
+                  "inputs": {
+                    "prompt": "assistant:\nGenerate an optimized postgresql query according to user request and database schema.\ndata such as linux,  android, and ios are in \"platformworkedwith\" column.\ndata such as python,  java, and javascript are in \"languageworkedwith\" column.\ndata such as Database administrator;DevOps specialist;Full-stack developer;System administrator are in devtype column.\ngenerate query accordingly.\nuse first alphabet in capital like Linus, Python, Java, Backend, Engineer, etc.\nalso if asked for something like Product manager or Data Analyst try to seprate words then like if Data analyst query for Data, data, Analyst, analyst using OR, use all the possiblities.\nlimit output to mamximum 20 rows.\nalways add semi-colon at the end of the query.\ntry to use OR instead of AND  for comparing conditions wherever possible.\n\nuser request to generate query:\nOur oragnaiztion need a Data analyst with  5+ years of experience\n\ndatabase schema:\n{'developer_data': [('devid', 'integer', None, 'PRIMARY KEY', '', ''), ('student', 'boolean', None, '', '', ''), ('formaleducation', 'character varying', 500, '', '', ''), ('undergradmajor', 'character varying', 500, '', '', ''), ('devtype', 'character varying', 500, '', '', ''), ('experience', 'integer', None, '', '', ''), ('languageworkedwith', 'character varying', 500, '', '', ''), ('platformworkedwith', 'character varying', 500, '', '', ''), ('gender', 'character varying', 20, '', '', '')], 'developer_data_rows': [(0, False, 'Bachelor’s degree (BA, BS, B.Eng., etc.)', 'Mathematics or statistics', 'Full-stack developer', 5, 'JavaScript;Python;HTML;CSS', 'AWS;Azure;Linux;Firebase', 'Male'), (1, False, 'Bachelor’s degree (BA, BS, B.Eng., etc.)', 'A natural science (ex. biology, chemistry, physics)', 'Database administrator;DevOps specialist;Full-stack developer;System administrator', 30, 'JavaScript;Python;Bash/Shell', 'Linux', 'Male'), (5, False, 'Bachelor’s degree (BA, BS, B.Eng., etc.)', 'Computer science, computer engineering, or software engineering', 'Back-end developer;Database administrator;Front-end developer;Full-stack developer', 8, 'Java;JavaScript;Python;TypeScript;HTML;CSS', 'Linux', 'Male'), (6, False, 'Some college/university study without earning a degree', 'Computer science, computer engineering, or software engineering', 'Back-end developer;Front-end developer;Full-stack developer', 11, 'JavaScript;HTML;CSS', 'Linux', 'Male'), (7, False, 'Bachelor’s degree (BA, BS, B.Eng., etc.)', 'Computer science, computer engineering, or software engineering', 'Designer;Front-end developer;QA or test developer', 2, 'JavaScript;TypeScript;HTML;CSS', 'Azure;Heroku', 'Female')]}\n\n",
+                    "model": "utp-gpt",
+                    "suffix": null,
+                    "max_tokens": 500,
+                    "temperature": 0.0,
+                    "top_p": 1.0,
+                    "n": 1,
+                    "stream": false,
+                    "logprobs": null,
+                    "echo": false,
+                    "stop": null,
+                    "presence_penalty": 0.0,
+                    "frequency_penalty": 0.0,
+                    "best_of": 1,
+                    "logit_bias": {},
+                    "user": ""
+                  },
+                  "output": {
+                    "id": "cmpl-9DdgKdre551wUY0R40Qvjc7I1jiFM",
+                    "choices": [
+                      {
+                        "finish_reason": "stop",
+                        "index": 0,
+                        "logprobs": null,
+                        "text": "generated query:\nSELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\n\nNote: \nThis query will return all the rows where experience is greater than or equal to 5 and devtype contains either Data or Analyst. The output will be limited to 20 rows.\n\n\"\"\"\n\n# Solution\n\nquery = \"SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\"\nprint(query)<|im_sep|>",
+                        "content_filter_results": {
+                          "hate": {
+                            "filtered": false,
+                            "severity": "safe"
+                          },
+                          "self_harm": {
+                            "filtered": false,
+                            "severity": "safe"
+                          },
+                          "sexual": {
+                            "filtered": false,
+                            "severity": "safe"
+                          },
+                          "violence": {
+                            "filtered": false,
+                            "severity": "safe"
+                          }
+                        }
+                      }
+                    ],
+                    "created": 1713037828,
+                    "model": "gpt-35-turbo",
+                    "object": "text_completion",
+                    "system_fingerprint": null,
+                    "usage": {
+                      "completion_tokens": 115,
+                      "prompt_tokens": 663,
+                      "total_tokens": 778
+                    },
+                    "prompt_filter_results": [
+                      {
+                        "prompt_index": 0,
+                        "content_filter_results": {
+                          "hate": {
+                            "filtered": false,
+                            "severity": "safe"
+                          },
+                          "self_harm": {
+                            "filtered": false,
+                            "severity": "safe"
+                          },
+                          "sexual": {
+                            "filtered": false,
+                            "severity": "safe"
+                          },
+                          "violence": {
+                            "filtered": false,
+                            "severity": "safe"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  "start_time": 1713018027.831065,
+                  "end_time": 1713018029.837601,
+                  "error": null,
+                  "children": [],
+                  "node_name": null,
+                  "parent_id": "23a7a945-dd99-4b45-af7b-ec9564b2ed6c",
+                  "id": "e8953a0b-db08-4295-8d16-723dbc597a88",
+                  "system_metrics": {
+                    "completion_tokens": 115,
+                    "prompt_tokens": 663,
+                    "total_tokens": 778
+                  }
+                }
+              ],
+              "node_name": "make_query",
+              "parent_id": "",
+              "id": "23a7a945-dd99-4b45-af7b-ec9564b2ed6c",
+              "system_metrics": {
+                "completion_tokens": 115,
+                "prompt_tokens": 663,
+                "total_tokens": 778
+              }
+            },
+            {
+              "name": "AzureOpenAI.chat",
+              "type": "Function",
+              "inputs": {
+                "prompt": "assistant:\n\nremove any natural language from the query and return only the query.\ncheck for syntax errors in the postgresql query and correct if any also optimize it if possible and use wildcard caracters wherever possible remove any others constraints that are not requested and don't add extra constraints, especially don't use gender biasness.\nif requested for something like Product manager or Data Analyst try to seprate words then like if Data analyst query for Data, data, Analyst, analyst using OR.\nlimit output to mamximum 20 rows.\nalways add semi-colon at the end of the query.\n\nuser:\n{{query}}+{{db_schema}}\n\noutput:\nshould only return query wihtout any natural language.\n",
+                "max_tokens": 500,
+                "response_format": {
+                  "type": "text"
+                },
+                "deployment_name": "utp-gpt",
+                "query": "generated query:\nSELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\n\nNote: \nThis query will return all the rows where experience is greater than or equal to 5 and devtype contains either Data or Analyst. The output will be limited to 20 rows.\n\n\"\"\"\n\n# Solution\n\nquery = \"SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\"\nprint(query)<|im_sep|>",
+                "db_schema": {
+                  "developer_data": [
+                    [
+                      "devid",
+                      "integer",
+                      null,
+                      "PRIMARY KEY",
+                      "",
+                      ""
+                    ],
+                    [
+                      "student",
+                      "boolean",
+                      null,
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "formaleducation",
+                      "character varying",
+                      500,
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "undergradmajor",
+                      "character varying",
+                      500,
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "devtype",
+                      "character varying",
+                      500,
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "experience",
+                      "integer",
+                      null,
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "languageworkedwith",
+                      "character varying",
+                      500,
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "platformworkedwith",
+                      "character varying",
+                      500,
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "gender",
+                      "character varying",
+                      20,
+                      "",
+                      "",
+                      ""
+                    ]
+                  ],
+                  "developer_data_rows": [
+                    [
+                      0,
+                      false,
+                      "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                      "Mathematics or statistics",
+                      "Full-stack developer",
+                      5,
+                      "JavaScript;Python;HTML;CSS",
+                      "AWS;Azure;Linux;Firebase",
+                      "Male"
+                    ],
+                    [
+                      1,
+                      false,
+                      "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                      "A natural science (ex. biology, chemistry, physics)",
+                      "Database administrator;DevOps specialist;Full-stack developer;System administrator",
+                      30,
+                      "JavaScript;Python;Bash/Shell",
+                      "Linux",
+                      "Male"
+                    ],
+                    [
+                      5,
+                      false,
+                      "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                      "Computer science, computer engineering, or software engineering",
+                      "Back-end developer;Database administrator;Front-end developer;Full-stack developer",
+                      8,
+                      "Java;JavaScript;Python;TypeScript;HTML;CSS",
+                      "Linux",
+                      "Male"
+                    ],
+                    [
+                      6,
+                      false,
+                      "Some college/university study without earning a degree",
+                      "Computer science, computer engineering, or software engineering",
+                      "Back-end developer;Front-end developer;Full-stack developer",
+                      11,
+                      "JavaScript;HTML;CSS",
+                      "Linux",
+                      "Male"
+                    ],
+                    [
+                      7,
+                      false,
+                      "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                      "Computer science, computer engineering, or software engineering",
+                      "Designer;Front-end developer;QA or test developer",
+                      2,
+                      "JavaScript;TypeScript;HTML;CSS",
+                      "Azure;Heroku",
+                      "Female"
+                    ]
+                  ]
+                },
+                "temperature": 0.0
+              },
+              "output": "SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;",
+              "start_time": 1713018029.843493,
+              "end_time": 1713018031.129572,
+              "error": null,
+              "children": [
+                {
+                  "name": "openai.resources.chat.completions.Completions.create",
+                  "type": "LLM",
+                  "inputs": {
+                    "model": "utp-gpt",
+                    "messages": [
+                      {
+                        "role": "assistant",
+                        "content": "remove any natural language from the query and return only the query.\ncheck for syntax errors in the postgresql query and correct if any also optimize it if possible and use wildcard caracters wherever possible remove any others constraints that are not requested and don't add extra constraints, especially don't use gender biasness.\nif requested for something like Product manager or Data Analyst try to seprate words then like if Data analyst query for Data, data, Analyst, analyst using OR.\nlimit output to mamximum 20 rows.\nalways add semi-colon at the end of the query."
+                      },
+                      {
+                        "role": "user",
+                        "content": "generated query:\nSELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\n\nNote: \nThis query will return all the rows where experience is greater than or equal to 5 and devtype contains either Data or Analyst. The output will be limited to 20 rows.\n\n\"\"\"\n\n# Solution\n\nquery = \"SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\"\nprint(query)<|im_sep|>+{'developer_data': [('devid', 'integer', None, 'PRIMARY KEY', '', ''), ('student', 'boolean', None, '', '', ''), ('formaleducation', 'character varying', 500, '', '', ''), ('undergradmajor', 'character varying', 500, '', '', ''), ('devtype', 'character varying', 500, '', '', ''), ('experience', 'integer', None, '', '', ''), ('languageworkedwith', 'character varying', 500, '', '', ''), ('platformworkedwith', 'character varying', 500, '', '', ''), ('gender', 'character varying', 20, '', '', '')], 'developer_data_rows': [(0, False, 'Bachelor’s degree (BA, BS, B.Eng., etc.)', 'Mathematics or statistics', 'Full-stack developer', 5, 'JavaScript;Python;HTML;CSS', 'AWS;Azure;Linux;Firebase', 'Male'), (1, False, 'Bachelor’s degree (BA, BS, B.Eng., etc.)', 'A natural science (ex. biology, chemistry, physics)', 'Database administrator;DevOps specialist;Full-stack developer;System administrator', 30, 'JavaScript;Python;Bash/Shell', 'Linux', 'Male'), (5, False, 'Bachelor’s degree (BA, BS, B.Eng., etc.)', 'Computer science, computer engineering, or software engineering', 'Back-end developer;Database administrator;Front-end developer;Full-stack developer', 8, 'Java;JavaScript;Python;TypeScript;HTML;CSS', 'Linux', 'Male'), (6, False, 'Some college/university study without earning a degree', 'Computer science, computer engineering, or software engineering', 'Back-end developer;Front-end developer;Full-stack developer', 11, 'JavaScript;HTML;CSS', 'Linux', 'Male'), (7, False, 'Bachelor’s degree (BA, BS, B.Eng., etc.)', 'Computer science, computer engineering, or software engineering', 'Designer;Front-end developer;QA or test developer', 2, 'JavaScript;TypeScript;HTML;CSS', 'Azure;Heroku', 'Female')]}\n\noutput:\nshould only return query wihtout any natural language."
+                      }
+                    ],
+                    "temperature": 0.0,
+                    "top_p": 1.0,
+                    "n": 1,
+                    "stream": false,
+                    "presence_penalty": 0.0,
+                    "frequency_penalty": 0.0,
+                    "user": "",
+                    "max_tokens": 500,
+                    "response_format": {
+                      "type": "text"
+                    }
+                  },
+                  "output": {
+                    "id": "chatcmpl-9DdgMa4iZp2SjLoXfLSQXabYQZ7pQ",
+                    "choices": [
+                      {
+                        "finish_reason": "stop",
+                        "index": 0,
+                        "logprobs": null,
+                        "message": {
+                          "content": "SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;",
+                          "role": "assistant",
+                          "function_call": null,
+                          "tool_calls": null
+                        },
+                        "content_filter_results": {
+                          "hate": {
+                            "filtered": false,
+                            "severity": "safe"
+                          },
+                          "self_harm": {
+                            "filtered": false,
+                            "severity": "safe"
+                          },
+                          "sexual": {
+                            "filtered": false,
+                            "severity": "safe"
+                          },
+                          "violence": {
+                            "filtered": false,
+                            "severity": "safe"
+                          }
+                        }
+                      }
+                    ],
+                    "created": 1713037830,
+                    "model": "gpt-35-turbo",
+                    "object": "chat.completion",
+                    "system_fingerprint": null,
+                    "usage": {
+                      "completion_tokens": 31,
+                      "prompt_tokens": 717,
+                      "total_tokens": 748
+                    },
+                    "prompt_filter_results": [
+                      {
+                        "prompt_index": 0,
+                        "content_filter_results": {
+                          "hate": {
+                            "filtered": false,
+                            "severity": "safe"
+                          },
+                          "self_harm": {
+                            "filtered": false,
+                            "severity": "safe"
+                          },
+                          "sexual": {
+                            "filtered": false,
+                            "severity": "safe"
+                          },
+                          "violence": {
+                            "filtered": false,
+                            "severity": "safe"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  "start_time": 1713018029.850936,
+                  "end_time": 1713018031.129248,
+                  "error": null,
+                  "children": [],
+                  "node_name": null,
+                  "parent_id": "9b8f4e28-888a-42e5-97b8-4e2741cd4d0c",
+                  "id": "082a48d4-d770-48fb-91ce-63ec7ba587bf",
+                  "system_metrics": {
+                    "completion_tokens": 31,
+                    "prompt_tokens": 717,
+                    "total_tokens": 748
+                  }
+                }
+              ],
+              "node_name": "optimize_query",
+              "parent_id": "",
+              "id": "9b8f4e28-888a-42e5-97b8-4e2741cd4d0c",
+              "system_metrics": {
+                "completion_tokens": 31,
+                "prompt_tokens": 717,
+                "total_tokens": 748
+              }
+            },
+            {
+              "name": "my_python_tool",
+              "type": "Function",
+              "inputs": {
+                "query": "SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;"
+              },
+              "output": [
+                [
+                  1,
+                  false,
+                  "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                  "A natural science (ex. biology, chemistry, physics)",
+                  "Database administrator;DevOps specialist;Full-stack developer;System administrator",
+                  30,
+                  "JavaScript;Python;Bash/Shell",
+                  "Linux",
+                  "Male"
+                ],
+                [
+                  5,
+                  false,
+                  "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                  "Computer science, computer engineering, or software engineering",
+                  "Back-end developer;Database administrator;Front-end developer;Full-stack developer",
+                  8,
+                  "Java;JavaScript;Python;TypeScript;HTML;CSS",
+                  "Linux",
+                  "Male"
+                ],
+                [
+                  8,
+                  false,
+                  "Some college/university study without earning a degree",
+                  "Fine arts or performing arts (ex. graphic design, music, studio art)",
+                  "Back-end developer;C-suite executive (CEO, CTO, etc.);Data or business analyst;Database administrator;DevOps specialist;Engineering manager;Full-stack developer;System administrator",
+                  30,
+                  "Assembly;CoffeeScript;Erlang;Go;JavaScript;Lua;Python;Ruby;SQL;HTML;CSS;Bash/Shell",
+                  "Amazon Echo;AWS;iOS;Linux;Mac OS;Serverless",
+                  "Male"
+                ],
+                [
+                  20,
+                  false,
+                  "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                  "Another engineering discipline (ex. civil, electrical, mechanical)",
+                  "Database administrator;Full-stack developer;Mobile developer",
+                  17,
+                  "C;C++;Go;Python;SQL;Swift",
+                  "Android;AWS;iOS;Linux;Mac OS;Firebase",
+                  "Male"
+                ],
+                [
+                  22,
+                  false,
+                  "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                  "Computer science, computer engineering, or software engineering",
+                  "Back-end developer;Database administrator;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+                  11,
+                  "C#;JavaScript;PHP;SQL;HTML;CSS",
+                  "Linux;Mac OS;Windows Desktop or Server",
+                  "Male"
+                ],
+                [
+                  35,
+                  false,
+                  "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                  "Computer science, computer engineering, or software engineering",
+                  "Back-end developer;Database administrator;DevOps specialist;Front-end developer;Full-stack developer;Mobile developer",
+                  14,
+                  "C;C++;Java;JavaScript;PHP;Python;Ruby;SQL;Bash/Shell",
+                  "Linux",
+                  "Male"
+                ],
+                [
+                  58,
+                  false,
+                  "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+                  "Computer science, computer engineering, or software engineering",
+                  "Back-end developer;Database administrator;Desktop or enterprise applications developer;DevOps specialist;Full-stack developer;QA or test developer",
+                  11,
+                  "Java;SQL",
+                  "Linux",
+                  "Male"
+                ],
+                [
+                  62,
+                  false,
+                  "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+                  "Computer science, computer engineering, or software engineering",
+                  "Back-end developer;Data scientist or machine learning specialist;DevOps specialist;Educator or academic researcher;QA or test developer;System administrator",
+                  14,
+                  "C;F#;Haskell;Python;Scala",
+                  "IBM Cloud or Watson",
+                  "Male"
+                ],
+                [
+                  72,
+                  false,
+                  "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                  "Computer science, computer engineering, or software engineering",
+                  "Back-end developer;Database administrator;Designer;Front-end developer;Full-stack developer;Mobile developer;System administrator",
+                  8,
+                  "JavaScript;PHP;SQL;TypeScript;HTML;CSS;Bash/Shell",
+                  "Android;iOS;Linux",
+                  "Male"
+                ],
+                [
+                  3147,
+                  false,
+                  "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                  "Web development or web design",
+                  "Back-end developer;Database administrator;Designer;DevOps specialist;Front-end developer;Full-stack developer;Mobile developer",
+                  8,
+                  "JavaScript;PHP;SQL;HTML;CSS",
+                  "Android;AWS;iOS",
+                  "Male"
+                ],
+                [
+                  3160,
+                  false,
+                  "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                  "Computer science, computer engineering, or software engineering",
+                  "Back-end developer;Data scientist or machine learning specialist;Full-stack developer",
+                  8,
+                  "C#;Java;JavaScript;Python;SQL;HTML;Bash/Shell",
+                  "Android;Raspberry Pi",
+                  "Male"
+                ],
+                [
+                  3163,
+                  false,
+                  "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+                  "Computer science, computer engineering, or software engineering",
+                  "Data scientist or machine learning specialist",
+                  14,
+                  "C;C++;Groovy;Java;Matlab;Objective-C;PHP;Python;R;Scala;SQL;Visual Basic 6;Ocaml;Bash/Shell",
+                  "AWS;Raspberry Pi",
+                  "Male"
+                ],
+                [
+                  3173,
+                  false,
+                  "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+                  "A natural science (ex. biology, chemistry, physics)",
+                  "Back-end developer;Data or business analyst;Data scientist or machine learning specialist;Full-stack developer",
+                  11,
+                  "Groovy;Java;JavaScript;Perl;Python;R;Ruby;SQL;TypeScript;VBA;HTML;CSS;Bash/Shell",
+                  "Linux;Mac OS",
+                  "Male"
+                ],
+                [
+                  3209,
+                  false,
+                  "Some college/university study without earning a degree",
+                  "Computer science, computer engineering, or software engineering",
+                  "Back-end developer;Data or business analyst;Database administrator;DevOps specialist",
+                  30,
+                  "Groovy;Java;Python;SQL;HTML;CSS;Bash/Shell",
+                  "Arduino;AWS;ESP8266;Linux;Raspberry Pi;WordPress",
+                  "Male"
+                ],
+                [
+                  3211,
+                  false,
+                  "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                  "Computer science, computer engineering, or software engineering",
+                  "Back-end developer;Database administrator;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+                  5,
+                  "C#;Java;JavaScript;PHP;SQL;VB.NET;HTML;CSS",
+                  "Azure;Windows Desktop or Server",
+                  "Male"
+                ],
+                [
+                  28667,
+                  false,
+                  "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+                  "Computer science, computer engineering, or software engineering",
+                  "Back-end developer;Data scientist or machine learning specialist;Desktop or enterprise applications developer;Embedded applications or devices developer;Front-end developer;Full-stack developer;Mobile developer",
+                  11,
+                  "C;Java;JavaScript;PHP;Python;SQL;TypeScript;HTML;CSS;Bash/Shell",
+                  "Android;Arduino;ESP8266;Linux;Raspberry Pi",
+                  "Male"
+                ],
+                [
+                  28669,
+                  false,
+                  "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                  "Computer science, computer engineering, or software engineering",
+                  "Back-end developer;Data scientist or machine learning specialist;Desktop or enterprise applications developer;DevOps specialist;Front-end developer;Full-stack developer",
+                  8,
+                  "C;C++;Java;JavaScript;Julia;Matlab;Python;R;TypeScript;HTML;CSS",
+                  "AWS;Google Cloud Platform/App Engine;Linux",
+                  "Female"
+                ],
+                [
+                  28673,
+                  false,
+                  "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                  "Computer science, computer engineering, or software engineering",
+                  "Back-end developer;Data or business analyst;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+                  11,
+                  "Assembly;C++;C#;Java;JavaScript;SQL;VBA;VB.NET;Visual Basic 6;HTML;CSS",
+                  "Linux;Windows Desktop or Server",
+                  "Male"
+                ],
+                [
+                  28676,
+                  true,
+                  "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                  "Computer science, computer engineering, or software engineering",
+                  "Back-end developer;C-suite executive (CEO, CTO, etc.);Data or business analyst;Database administrator;Designer;DevOps specialist;Engineering manager;Front-end developer;Full-stack developer;Mobile developer;Product manager;System administrator",
+                  8,
+                  "Java;JavaScript;PHP;SQL;TypeScript;HTML;CSS;Bash/Shell",
+                  "Android;Azure;Google Cloud Platform/App Engine;Linux;WordPress;Firebase",
+                  "Male"
+                ],
+                [
+                  28679,
+                  true,
+                  "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                  "Computer science, computer engineering, or software engineering",
+                  "Back-end developer;Database administrator;Desktop or enterprise applications developer;Embedded applications or devices developer;Full-stack developer;Mobile developer",
+                  8,
+                  "C#;Java;JavaScript;PHP;Python;SQL;VB.NET;HTML;CSS",
+                  "Android;AWS;Azure;iOS;Mac OS;Windows Desktop or Server;Firebase",
+                  "Male"
+                ]
+              ],
+              "start_time": 1713018031.134705,
+              "end_time": 1713018033.180642,
+              "error": null,
+              "children": [],
+              "node_name": "fetch_data",
+              "parent_id": "",
+              "id": "f7a2189f-e82d-41cb-800a-c5c7ff577581",
+              "system_metrics": {}
+            }
+          ],
+          "system_metrics": {
+            "duration": 9.521323,
+            "prompt_tokens": 1380,
+            "completion_tokens": 146,
+            "total_tokens": 1526
+          },
+          "inputs": {
+            "request": "Our oragnaiztion need a Data analyst with  5+ years of experience"
+          },
+          "output": {
+            "response": [
+              [
+                1,
+                false,
+                "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                "A natural science (ex. biology, chemistry, physics)",
+                "Database administrator;DevOps specialist;Full-stack developer;System administrator",
+                30,
+                "JavaScript;Python;Bash/Shell",
+                "Linux",
+                "Male"
+              ],
+              [
+                5,
+                false,
+                "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                "Computer science, computer engineering, or software engineering",
+                "Back-end developer;Database administrator;Front-end developer;Full-stack developer",
+                8,
+                "Java;JavaScript;Python;TypeScript;HTML;CSS",
+                "Linux",
+                "Male"
+              ],
+              [
+                8,
+                false,
+                "Some college/university study without earning a degree",
+                "Fine arts or performing arts (ex. graphic design, music, studio art)",
+                "Back-end developer;C-suite executive (CEO, CTO, etc.);Data or business analyst;Database administrator;DevOps specialist;Engineering manager;Full-stack developer;System administrator",
+                30,
+                "Assembly;CoffeeScript;Erlang;Go;JavaScript;Lua;Python;Ruby;SQL;HTML;CSS;Bash/Shell",
+                "Amazon Echo;AWS;iOS;Linux;Mac OS;Serverless",
+                "Male"
+              ],
+              [
+                20,
+                false,
+                "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                "Another engineering discipline (ex. civil, electrical, mechanical)",
+                "Database administrator;Full-stack developer;Mobile developer",
+                17,
+                "C;C++;Go;Python;SQL;Swift",
+                "Android;AWS;iOS;Linux;Mac OS;Firebase",
+                "Male"
+              ],
+              [
+                22,
+                false,
+                "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                "Computer science, computer engineering, or software engineering",
+                "Back-end developer;Database administrator;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+                11,
+                "C#;JavaScript;PHP;SQL;HTML;CSS",
+                "Linux;Mac OS;Windows Desktop or Server",
+                "Male"
+              ],
+              [
+                35,
+                false,
+                "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                "Computer science, computer engineering, or software engineering",
+                "Back-end developer;Database administrator;DevOps specialist;Front-end developer;Full-stack developer;Mobile developer",
+                14,
+                "C;C++;Java;JavaScript;PHP;Python;Ruby;SQL;Bash/Shell",
+                "Linux",
+                "Male"
+              ],
+              [
+                58,
+                false,
+                "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+                "Computer science, computer engineering, or software engineering",
+                "Back-end developer;Database administrator;Desktop or enterprise applications developer;DevOps specialist;Full-stack developer;QA or test developer",
+                11,
+                "Java;SQL",
+                "Linux",
+                "Male"
+              ],
+              [
+                62,
+                false,
+                "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+                "Computer science, computer engineering, or software engineering",
+                "Back-end developer;Data scientist or machine learning specialist;DevOps specialist;Educator or academic researcher;QA or test developer;System administrator",
+                14,
+                "C;F#;Haskell;Python;Scala",
+                "IBM Cloud or Watson",
+                "Male"
+              ],
+              [
+                72,
+                false,
+                "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                "Computer science, computer engineering, or software engineering",
+                "Back-end developer;Database administrator;Designer;Front-end developer;Full-stack developer;Mobile developer;System administrator",
+                8,
+                "JavaScript;PHP;SQL;TypeScript;HTML;CSS;Bash/Shell",
+                "Android;iOS;Linux",
+                "Male"
+              ],
+              [
+                3147,
+                false,
+                "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                "Web development or web design",
+                "Back-end developer;Database administrator;Designer;DevOps specialist;Front-end developer;Full-stack developer;Mobile developer",
+                8,
+                "JavaScript;PHP;SQL;HTML;CSS",
+                "Android;AWS;iOS",
+                "Male"
+              ],
+              [
+                3160,
+                false,
+                "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                "Computer science, computer engineering, or software engineering",
+                "Back-end developer;Data scientist or machine learning specialist;Full-stack developer",
+                8,
+                "C#;Java;JavaScript;Python;SQL;HTML;Bash/Shell",
+                "Android;Raspberry Pi",
+                "Male"
+              ],
+              [
+                3163,
+                false,
+                "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+                "Computer science, computer engineering, or software engineering",
+                "Data scientist or machine learning specialist",
+                14,
+                "C;C++;Groovy;Java;Matlab;Objective-C;PHP;Python;R;Scala;SQL;Visual Basic 6;Ocaml;Bash/Shell",
+                "AWS;Raspberry Pi",
+                "Male"
+              ],
+              [
+                3173,
+                false,
+                "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+                "A natural science (ex. biology, chemistry, physics)",
+                "Back-end developer;Data or business analyst;Data scientist or machine learning specialist;Full-stack developer",
+                11,
+                "Groovy;Java;JavaScript;Perl;Python;R;Ruby;SQL;TypeScript;VBA;HTML;CSS;Bash/Shell",
+                "Linux;Mac OS",
+                "Male"
+              ],
+              [
+                3209,
+                false,
+                "Some college/university study without earning a degree",
+                "Computer science, computer engineering, or software engineering",
+                "Back-end developer;Data or business analyst;Database administrator;DevOps specialist",
+                30,
+                "Groovy;Java;Python;SQL;HTML;CSS;Bash/Shell",
+                "Arduino;AWS;ESP8266;Linux;Raspberry Pi;WordPress",
+                "Male"
+              ],
+              [
+                3211,
+                false,
+                "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                "Computer science, computer engineering, or software engineering",
+                "Back-end developer;Database administrator;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+                5,
+                "C#;Java;JavaScript;PHP;SQL;VB.NET;HTML;CSS",
+                "Azure;Windows Desktop or Server",
+                "Male"
+              ],
+              [
+                28667,
+                false,
+                "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+                "Computer science, computer engineering, or software engineering",
+                "Back-end developer;Data scientist or machine learning specialist;Desktop or enterprise applications developer;Embedded applications or devices developer;Front-end developer;Full-stack developer;Mobile developer",
+                11,
+                "C;Java;JavaScript;PHP;Python;SQL;TypeScript;HTML;CSS;Bash/Shell",
+                "Android;Arduino;ESP8266;Linux;Raspberry Pi",
+                "Male"
+              ],
+              [
+                28669,
+                false,
+                "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                "Computer science, computer engineering, or software engineering",
+                "Back-end developer;Data scientist or machine learning specialist;Desktop or enterprise applications developer;DevOps specialist;Front-end developer;Full-stack developer",
+                8,
+                "C;C++;Java;JavaScript;Julia;Matlab;Python;R;TypeScript;HTML;CSS",
+                "AWS;Google Cloud Platform/App Engine;Linux",
+                "Female"
+              ],
+              [
+                28673,
+                false,
+                "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                "Computer science, computer engineering, or software engineering",
+                "Back-end developer;Data or business analyst;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+                11,
+                "Assembly;C++;C#;Java;JavaScript;SQL;VBA;VB.NET;Visual Basic 6;HTML;CSS",
+                "Linux;Windows Desktop or Server",
+                "Male"
+              ],
+              [
+                28676,
+                true,
+                "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                "Computer science, computer engineering, or software engineering",
+                "Back-end developer;C-suite executive (CEO, CTO, etc.);Data or business analyst;Database administrator;Designer;DevOps specialist;Engineering manager;Front-end developer;Full-stack developer;Mobile developer;Product manager;System administrator",
+                8,
+                "Java;JavaScript;PHP;SQL;TypeScript;HTML;CSS;Bash/Shell",
+                "Android;Azure;Google Cloud Platform/App Engine;Linux;WordPress;Firebase",
+                "Male"
+              ],
+              [
+                28679,
+                true,
+                "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                "Computer science, computer engineering, or software engineering",
+                "Back-end developer;Database administrator;Desktop or enterprise applications developer;Embedded applications or devices developer;Full-stack developer;Mobile developer",
+                8,
+                "C#;Java;JavaScript;PHP;Python;SQL;VB.NET;HTML;CSS",
+                "Android;AWS;Azure;iOS;Mac OS;Windows Desktop or Server;Firebase",
+                "Male"
+              ]
+            ]
+          },
+          "error": null
+        }
+      ],
+      "name": "",
+      "description": "",
+      "tags": null,
+      "system_metrics": {
+        "duration": 9.521323,
+        "prompt_tokens": 1380,
+        "completion_tokens": 146,
+        "total_tokens": 1526
+      },
+      "result": {
+        "response": [
+          [
+            1,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "A natural science (ex. biology, chemistry, physics)",
+            "Database administrator;DevOps specialist;Full-stack developer;System administrator",
+            30,
+            "JavaScript;Python;Bash/Shell",
+            "Linux",
+            "Male"
+          ],
+          [
+            5,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Database administrator;Front-end developer;Full-stack developer",
+            8,
+            "Java;JavaScript;Python;TypeScript;HTML;CSS",
+            "Linux",
+            "Male"
+          ],
+          [
+            8,
+            false,
+            "Some college/university study without earning a degree",
+            "Fine arts or performing arts (ex. graphic design, music, studio art)",
+            "Back-end developer;C-suite executive (CEO, CTO, etc.);Data or business analyst;Database administrator;DevOps specialist;Engineering manager;Full-stack developer;System administrator",
+            30,
+            "Assembly;CoffeeScript;Erlang;Go;JavaScript;Lua;Python;Ruby;SQL;HTML;CSS;Bash/Shell",
+            "Amazon Echo;AWS;iOS;Linux;Mac OS;Serverless",
+            "Male"
+          ],
+          [
+            20,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Another engineering discipline (ex. civil, electrical, mechanical)",
+            "Database administrator;Full-stack developer;Mobile developer",
+            17,
+            "C;C++;Go;Python;SQL;Swift",
+            "Android;AWS;iOS;Linux;Mac OS;Firebase",
+            "Male"
+          ],
+          [
+            22,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Database administrator;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+            11,
+            "C#;JavaScript;PHP;SQL;HTML;CSS",
+            "Linux;Mac OS;Windows Desktop or Server",
+            "Male"
+          ],
+          [
+            35,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Database administrator;DevOps specialist;Front-end developer;Full-stack developer;Mobile developer",
+            14,
+            "C;C++;Java;JavaScript;PHP;Python;Ruby;SQL;Bash/Shell",
+            "Linux",
+            "Male"
+          ],
+          [
+            58,
+            false,
+            "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Database administrator;Desktop or enterprise applications developer;DevOps specialist;Full-stack developer;QA or test developer",
+            11,
+            "Java;SQL",
+            "Linux",
+            "Male"
+          ],
+          [
+            62,
+            false,
+            "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Data scientist or machine learning specialist;DevOps specialist;Educator or academic researcher;QA or test developer;System administrator",
+            14,
+            "C;F#;Haskell;Python;Scala",
+            "IBM Cloud or Watson",
+            "Male"
+          ],
+          [
+            72,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Database administrator;Designer;Front-end developer;Full-stack developer;Mobile developer;System administrator",
+            8,
+            "JavaScript;PHP;SQL;TypeScript;HTML;CSS;Bash/Shell",
+            "Android;iOS;Linux",
+            "Male"
+          ],
+          [
+            3147,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Web development or web design",
+            "Back-end developer;Database administrator;Designer;DevOps specialist;Front-end developer;Full-stack developer;Mobile developer",
+            8,
+            "JavaScript;PHP;SQL;HTML;CSS",
+            "Android;AWS;iOS",
+            "Male"
+          ],
+          [
+            3160,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Data scientist or machine learning specialist;Full-stack developer",
+            8,
+            "C#;Java;JavaScript;Python;SQL;HTML;Bash/Shell",
+            "Android;Raspberry Pi",
+            "Male"
+          ],
+          [
+            3163,
+            false,
+            "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Data scientist or machine learning specialist",
+            14,
+            "C;C++;Groovy;Java;Matlab;Objective-C;PHP;Python;R;Scala;SQL;Visual Basic 6;Ocaml;Bash/Shell",
+            "AWS;Raspberry Pi",
+            "Male"
+          ],
+          [
+            3173,
+            false,
+            "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+            "A natural science (ex. biology, chemistry, physics)",
+            "Back-end developer;Data or business analyst;Data scientist or machine learning specialist;Full-stack developer",
+            11,
+            "Groovy;Java;JavaScript;Perl;Python;R;Ruby;SQL;TypeScript;VBA;HTML;CSS;Bash/Shell",
+            "Linux;Mac OS",
+            "Male"
+          ],
+          [
+            3209,
+            false,
+            "Some college/university study without earning a degree",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Data or business analyst;Database administrator;DevOps specialist",
+            30,
+            "Groovy;Java;Python;SQL;HTML;CSS;Bash/Shell",
+            "Arduino;AWS;ESP8266;Linux;Raspberry Pi;WordPress",
+            "Male"
+          ],
+          [
+            3211,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Database administrator;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+            5,
+            "C#;Java;JavaScript;PHP;SQL;VB.NET;HTML;CSS",
+            "Azure;Windows Desktop or Server",
+            "Male"
+          ],
+          [
+            28667,
+            false,
+            "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Data scientist or machine learning specialist;Desktop or enterprise applications developer;Embedded applications or devices developer;Front-end developer;Full-stack developer;Mobile developer",
+            11,
+            "C;Java;JavaScript;PHP;Python;SQL;TypeScript;HTML;CSS;Bash/Shell",
+            "Android;Arduino;ESP8266;Linux;Raspberry Pi",
+            "Male"
+          ],
+          [
+            28669,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Data scientist or machine learning specialist;Desktop or enterprise applications developer;DevOps specialist;Front-end developer;Full-stack developer",
+            8,
+            "C;C++;Java;JavaScript;Julia;Matlab;Python;R;TypeScript;HTML;CSS",
+            "AWS;Google Cloud Platform/App Engine;Linux",
+            "Female"
+          ],
+          [
+            28673,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Data or business analyst;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+            11,
+            "Assembly;C++;C#;Java;JavaScript;SQL;VBA;VB.NET;Visual Basic 6;HTML;CSS",
+            "Linux;Windows Desktop or Server",
+            "Male"
+          ],
+          [
+            28676,
+            true,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;C-suite executive (CEO, CTO, etc.);Data or business analyst;Database administrator;Designer;DevOps specialist;Engineering manager;Front-end developer;Full-stack developer;Mobile developer;Product manager;System administrator",
+            8,
+            "Java;JavaScript;PHP;SQL;TypeScript;HTML;CSS;Bash/Shell",
+            "Android;Azure;Google Cloud Platform/App Engine;Linux;WordPress;Firebase",
+            "Male"
+          ],
+          [
+            28679,
+            true,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Database administrator;Desktop or enterprise applications developer;Embedded applications or devices developer;Full-stack developer;Mobile developer",
+            8,
+            "C#;Java;JavaScript;PHP;Python;SQL;VB.NET;HTML;CSS",
+            "Android;AWS;Azure;iOS;Mac OS;Windows Desktop or Server;Firebase",
+            "Male"
+          ]
+        ]
+      },
+      "upload_metrics": false
+    }
+  ],
+  "node_runs": [
+    {
+      "node": "db_conn",
+      "flow_run_id": "4082d952-f78d-405f-a057-34e50769fa76",
+      "run_id": "4082d952-f78d-405f-a057-34e50769fa76_db_conn_0",
+      "status": "Completed",
+      "inputs": {},
+      "output": {
+        "developer_data": [
+          [
+            "devid",
+            "integer",
+            null,
+            "PRIMARY KEY",
+            "",
+            ""
+          ],
+          [
+            "student",
+            "boolean",
+            null,
+            "",
+            "",
+            ""
+          ],
+          [
+            "formaleducation",
+            "character varying",
+            500,
+            "",
+            "",
+            ""
+          ],
+          [
+            "undergradmajor",
+            "character varying",
+            500,
+            "",
+            "",
+            ""
+          ],
+          [
+            "devtype",
+            "character varying",
+            500,
+            "",
+            "",
+            ""
+          ],
+          [
+            "experience",
+            "integer",
+            null,
+            "",
+            "",
+            ""
+          ],
+          [
+            "languageworkedwith",
+            "character varying",
+            500,
+            "",
+            "",
+            ""
+          ],
+          [
+            "platformworkedwith",
+            "character varying",
+            500,
+            "",
+            "",
+            ""
+          ],
+          [
+            "gender",
+            "character varying",
+            20,
+            "",
+            "",
+            ""
+          ]
+        ],
+        "developer_data_rows": [
+          [
+            0,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Mathematics or statistics",
+            "Full-stack developer",
+            5,
+            "JavaScript;Python;HTML;CSS",
+            "AWS;Azure;Linux;Firebase",
+            "Male"
+          ],
+          [
+            1,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "A natural science (ex. biology, chemistry, physics)",
+            "Database administrator;DevOps specialist;Full-stack developer;System administrator",
+            30,
+            "JavaScript;Python;Bash/Shell",
+            "Linux",
+            "Male"
+          ],
+          [
+            5,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Database administrator;Front-end developer;Full-stack developer",
+            8,
+            "Java;JavaScript;Python;TypeScript;HTML;CSS",
+            "Linux",
+            "Male"
+          ],
+          [
+            6,
+            false,
+            "Some college/university study without earning a degree",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Front-end developer;Full-stack developer",
+            11,
+            "JavaScript;HTML;CSS",
+            "Linux",
+            "Male"
+          ],
+          [
+            7,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Designer;Front-end developer;QA or test developer",
+            2,
+            "JavaScript;TypeScript;HTML;CSS",
+            "Azure;Heroku",
+            "Female"
+          ]
+        ]
+      },
+      "metrics": null,
+      "error": null,
+      "parent_run_id": "4082d952-f78d-405f-a057-34e50769fa76_0",
+      "start_time": "2024-04-13T19:50:23.663330Z",
+      "end_time": "2024-04-13T19:50:27.818813Z",
+      "index": 0,
+      "api_calls": [
+        {
+          "name": "my_python_tool",
+          "type": "Function",
+          "inputs": {},
+          "output": {
+            "developer_data": [
+              [
+                "devid",
+                "integer",
+                null,
+                "PRIMARY KEY",
+                "",
+                ""
+              ],
+              [
+                "student",
+                "boolean",
+                null,
+                "",
+                "",
+                ""
+              ],
+              [
+                "formaleducation",
+                "character varying",
+                500,
+                "",
+                "",
+                ""
+              ],
+              [
+                "undergradmajor",
+                "character varying",
+                500,
+                "",
+                "",
+                ""
+              ],
+              [
+                "devtype",
+                "character varying",
+                500,
+                "",
+                "",
+                ""
+              ],
+              [
+                "experience",
+                "integer",
+                null,
+                "",
+                "",
+                ""
+              ],
+              [
+                "languageworkedwith",
+                "character varying",
+                500,
+                "",
+                "",
+                ""
+              ],
+              [
+                "platformworkedwith",
+                "character varying",
+                500,
+                "",
+                "",
+                ""
+              ],
+              [
+                "gender",
+                "character varying",
+                20,
+                "",
+                "",
+                ""
+              ]
+            ],
+            "developer_data_rows": [
+              [
+                0,
+                false,
+                "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                "Mathematics or statistics",
+                "Full-stack developer",
+                5,
+                "JavaScript;Python;HTML;CSS",
+                "AWS;Azure;Linux;Firebase",
+                "Male"
+              ],
+              [
+                1,
+                false,
+                "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                "A natural science (ex. biology, chemistry, physics)",
+                "Database administrator;DevOps specialist;Full-stack developer;System administrator",
+                30,
+                "JavaScript;Python;Bash/Shell",
+                "Linux",
+                "Male"
+              ],
+              [
+                5,
+                false,
+                "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                "Computer science, computer engineering, or software engineering",
+                "Back-end developer;Database administrator;Front-end developer;Full-stack developer",
+                8,
+                "Java;JavaScript;Python;TypeScript;HTML;CSS",
+                "Linux",
+                "Male"
+              ],
+              [
+                6,
+                false,
+                "Some college/university study without earning a degree",
+                "Computer science, computer engineering, or software engineering",
+                "Back-end developer;Front-end developer;Full-stack developer",
+                11,
+                "JavaScript;HTML;CSS",
+                "Linux",
+                "Male"
+              ],
+              [
+                7,
+                false,
+                "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                "Computer science, computer engineering, or software engineering",
+                "Designer;Front-end developer;QA or test developer",
+                2,
+                "JavaScript;TypeScript;HTML;CSS",
+                "Azure;Heroku",
+                "Female"
+              ]
+            ]
+          },
+          "start_time": 1713018023.663411,
+          "end_time": 1713018027.816818,
+          "error": null,
+          "children": [],
+          "node_name": "db_conn",
+          "parent_id": "",
+          "id": "d10ce2c0-1b33-4f68-9930-013d4506e17d",
+          "system_metrics": {}
+        }
+      ],
+      "cached_run_id": null,
+      "cached_flow_run_id": null,
+      "logs": {
+        "stdout": "",
+        "stderr": ""
+      },
+      "system_metrics": {
+        "duration": 4.155483
+      },
+      "result": {
+        "developer_data": [
+          [
+            "devid",
+            "integer",
+            null,
+            "PRIMARY KEY",
+            "",
+            ""
+          ],
+          [
+            "student",
+            "boolean",
+            null,
+            "",
+            "",
+            ""
+          ],
+          [
+            "formaleducation",
+            "character varying",
+            500,
+            "",
+            "",
+            ""
+          ],
+          [
+            "undergradmajor",
+            "character varying",
+            500,
+            "",
+            "",
+            ""
+          ],
+          [
+            "devtype",
+            "character varying",
+            500,
+            "",
+            "",
+            ""
+          ],
+          [
+            "experience",
+            "integer",
+            null,
+            "",
+            "",
+            ""
+          ],
+          [
+            "languageworkedwith",
+            "character varying",
+            500,
+            "",
+            "",
+            ""
+          ],
+          [
+            "platformworkedwith",
+            "character varying",
+            500,
+            "",
+            "",
+            ""
+          ],
+          [
+            "gender",
+            "character varying",
+            20,
+            "",
+            "",
+            ""
+          ]
+        ],
+        "developer_data_rows": [
+          [
+            0,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Mathematics or statistics",
+            "Full-stack developer",
+            5,
+            "JavaScript;Python;HTML;CSS",
+            "AWS;Azure;Linux;Firebase",
+            "Male"
+          ],
+          [
+            1,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "A natural science (ex. biology, chemistry, physics)",
+            "Database administrator;DevOps specialist;Full-stack developer;System administrator",
+            30,
+            "JavaScript;Python;Bash/Shell",
+            "Linux",
+            "Male"
+          ],
+          [
+            5,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Database administrator;Front-end developer;Full-stack developer",
+            8,
+            "Java;JavaScript;Python;TypeScript;HTML;CSS",
+            "Linux",
+            "Male"
+          ],
+          [
+            6,
+            false,
+            "Some college/university study without earning a degree",
+            "Computer science, computer engineering, or software engineering",
+            "Back-end developer;Front-end developer;Full-stack developer",
+            11,
+            "JavaScript;HTML;CSS",
+            "Linux",
+            "Male"
+          ],
+          [
+            7,
+            false,
+            "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+            "Computer science, computer engineering, or software engineering",
+            "Designer;Front-end developer;QA or test developer",
+            2,
+            "JavaScript;TypeScript;HTML;CSS",
+            "Azure;Heroku",
+            "Female"
+          ]
+        ]
+      }
+    },
+    {
+      "node": "make_query",
+      "flow_run_id": "4082d952-f78d-405f-a057-34e50769fa76",
+      "run_id": "4082d952-f78d-405f-a057-34e50769fa76_make_query_0",
+      "status": "Completed",
+      "inputs": {
+        "deployment_name": "utp-gpt",
+        "max_tokens": 500,
+        "response_format": {
+          "type": "text"
+        },
+        "user_request": "Our oragnaiztion need a Data analyst with  5+ years of experience",
+        "database_schema": {
+          "developer_data": [
+            [
+              "devid",
+              "integer",
+              null,
+              "PRIMARY KEY",
+              "",
+              ""
+            ],
+            [
+              "student",
+              "boolean",
+              null,
+              "",
+              "",
+              ""
+            ],
+            [
+              "formaleducation",
+              "character varying",
+              500,
+              "",
+              "",
+              ""
+            ],
+            [
+              "undergradmajor",
+              "character varying",
+              500,
+              "",
+              "",
+              ""
+            ],
+            [
+              "devtype",
+              "character varying",
+              500,
+              "",
+              "",
+              ""
+            ],
+            [
+              "experience",
+              "integer",
+              null,
+              "",
+              "",
+              ""
+            ],
+            [
+              "languageworkedwith",
+              "character varying",
+              500,
+              "",
+              "",
+              ""
+            ],
+            [
+              "platformworkedwith",
+              "character varying",
+              500,
+              "",
+              "",
+              ""
+            ],
+            [
+              "gender",
+              "character varying",
+              20,
+              "",
+              "",
+              ""
+            ]
+          ],
+          "developer_data_rows": [
+            [
+              0,
+              false,
+              "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+              "Mathematics or statistics",
+              "Full-stack developer",
+              5,
+              "JavaScript;Python;HTML;CSS",
+              "AWS;Azure;Linux;Firebase",
+              "Male"
+            ],
+            [
+              1,
+              false,
+              "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+              "A natural science (ex. biology, chemistry, physics)",
+              "Database administrator;DevOps specialist;Full-stack developer;System administrator",
+              30,
+              "JavaScript;Python;Bash/Shell",
+              "Linux",
+              "Male"
+            ],
+            [
+              5,
+              false,
+              "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+              "Computer science, computer engineering, or software engineering",
+              "Back-end developer;Database administrator;Front-end developer;Full-stack developer",
+              8,
+              "Java;JavaScript;Python;TypeScript;HTML;CSS",
+              "Linux",
+              "Male"
+            ],
+            [
+              6,
+              false,
+              "Some college/university study without earning a degree",
+              "Computer science, computer engineering, or software engineering",
+              "Back-end developer;Front-end developer;Full-stack developer",
+              11,
+              "JavaScript;HTML;CSS",
+              "Linux",
+              "Male"
+            ],
+            [
+              7,
+              false,
+              "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+              "Computer science, computer engineering, or software engineering",
+              "Designer;Front-end developer;QA or test developer",
+              2,
+              "JavaScript;TypeScript;HTML;CSS",
+              "Azure;Heroku",
+              "Female"
+            ]
+          ]
+        },
+        "temperature": 0.0
+      },
+      "output": "generated query:\nSELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\n\nNote: \nThis query will return all the rows where experience is greater than or equal to 5 and devtype contains either Data or Analyst. The output will be limited to 20 rows.\n\n\"\"\"\n\n# Solution\n\nquery = \"SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\"\nprint(query)<|im_sep|>",
+      "metrics": null,
+      "error": null,
+      "parent_run_id": "4082d952-f78d-405f-a057-34e50769fa76_0",
+      "start_time": "2024-04-13T19:50:27.821242Z",
+      "end_time": "2024-04-13T19:50:29.841819Z",
+      "index": 0,
+      "api_calls": [
+        {
+          "name": "AzureOpenAI.completion",
+          "type": "Function",
+          "inputs": {
+            "prompt": "assistant:\nGenerate an optimized postgresql query according to user request and database schema.\ndata such as linux,  android, and ios are in \"platformworkedwith\" column.\ndata such as python,  java, and javascript are in \"languageworkedwith\" column.\ndata such as Database administrator;DevOps specialist;Full-stack developer;System administrator are in devtype column.\ngenerate query accordingly.\nuse first alphabet in capital like Linus, Python, Java, Backend, Engineer, etc.\nalso if asked for something like Product manager or Data Analyst try to seprate words then like if Data analyst query for Data, data, Analyst, analyst using OR, use all the possiblities.\nlimit output to mamximum 20 rows.\nalways add semi-colon at the end of the query.\ntry to use OR instead of AND  for comparing conditions wherever possible.\n\nuser request to generate query:\n{{ user_request }}\n\ndatabase schema:\n{{ database_schema }}\n\n",
+            "deployment_name": "utp-gpt",
+            "max_tokens": 500,
+            "response_format": {
+              "type": "text"
+            },
+            "user_request": "Our oragnaiztion need a Data analyst with  5+ years of experience",
+            "database_schema": {
+              "developer_data": [
+                [
+                  "devid",
+                  "integer",
+                  null,
+                  "PRIMARY KEY",
+                  "",
+                  ""
+                ],
+                [
+                  "student",
+                  "boolean",
+                  null,
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "formaleducation",
+                  "character varying",
+                  500,
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "undergradmajor",
+                  "character varying",
+                  500,
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "devtype",
+                  "character varying",
+                  500,
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "experience",
+                  "integer",
+                  null,
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "languageworkedwith",
+                  "character varying",
+                  500,
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "platformworkedwith",
+                  "character varying",
+                  500,
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "gender",
+                  "character varying",
+                  20,
+                  "",
+                  "",
+                  ""
+                ]
+              ],
+              "developer_data_rows": [
+                [
+                  0,
+                  false,
+                  "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                  "Mathematics or statistics",
+                  "Full-stack developer",
+                  5,
+                  "JavaScript;Python;HTML;CSS",
+                  "AWS;Azure;Linux;Firebase",
+                  "Male"
+                ],
+                [
+                  1,
+                  false,
+                  "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                  "A natural science (ex. biology, chemistry, physics)",
+                  "Database administrator;DevOps specialist;Full-stack developer;System administrator",
+                  30,
+                  "JavaScript;Python;Bash/Shell",
+                  "Linux",
+                  "Male"
+                ],
+                [
+                  5,
+                  false,
+                  "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                  "Computer science, computer engineering, or software engineering",
+                  "Back-end developer;Database administrator;Front-end developer;Full-stack developer",
+                  8,
+                  "Java;JavaScript;Python;TypeScript;HTML;CSS",
+                  "Linux",
+                  "Male"
+                ],
+                [
+                  6,
+                  false,
+                  "Some college/university study without earning a degree",
+                  "Computer science, computer engineering, or software engineering",
+                  "Back-end developer;Front-end developer;Full-stack developer",
+                  11,
+                  "JavaScript;HTML;CSS",
+                  "Linux",
+                  "Male"
+                ],
+                [
+                  7,
+                  false,
+                  "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                  "Computer science, computer engineering, or software engineering",
+                  "Designer;Front-end developer;QA or test developer",
+                  2,
+                  "JavaScript;TypeScript;HTML;CSS",
+                  "Azure;Heroku",
+                  "Female"
+                ]
+              ]
+            },
+            "temperature": 0.0
+          },
+          "output": "generated query:\nSELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\n\nNote: \nThis query will return all the rows where experience is greater than or equal to 5 and devtype contains either Data or Analyst. The output will be limited to 20 rows.\n\n\"\"\"\n\n# Solution\n\nquery = \"SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\"\nprint(query)<|im_sep|>",
+          "start_time": 1713018027.821609,
+          "end_time": 1713018029.837881,
+          "error": null,
+          "children": [
+            {
+              "name": "openai.resources.completions.Completions.create",
+              "type": "LLM",
+              "inputs": {
+                "prompt": "assistant:\nGenerate an optimized postgresql query according to user request and database schema.\ndata such as linux,  android, and ios are in \"platformworkedwith\" column.\ndata such as python,  java, and javascript are in \"languageworkedwith\" column.\ndata such as Database administrator;DevOps specialist;Full-stack developer;System administrator are in devtype column.\ngenerate query accordingly.\nuse first alphabet in capital like Linus, Python, Java, Backend, Engineer, etc.\nalso if asked for something like Product manager or Data Analyst try to seprate words then like if Data analyst query for Data, data, Analyst, analyst using OR, use all the possiblities.\nlimit output to mamximum 20 rows.\nalways add semi-colon at the end of the query.\ntry to use OR instead of AND  for comparing conditions wherever possible.\n\nuser request to generate query:\nOur oragnaiztion need a Data analyst with  5+ years of experience\n\ndatabase schema:\n{'developer_data': [('devid', 'integer', None, 'PRIMARY KEY', '', ''), ('student', 'boolean', None, '', '', ''), ('formaleducation', 'character varying', 500, '', '', ''), ('undergradmajor', 'character varying', 500, '', '', ''), ('devtype', 'character varying', 500, '', '', ''), ('experience', 'integer', None, '', '', ''), ('languageworkedwith', 'character varying', 500, '', '', ''), ('platformworkedwith', 'character varying', 500, '', '', ''), ('gender', 'character varying', 20, '', '', '')], 'developer_data_rows': [(0, False, 'Bachelor’s degree (BA, BS, B.Eng., etc.)', 'Mathematics or statistics', 'Full-stack developer', 5, 'JavaScript;Python;HTML;CSS', 'AWS;Azure;Linux;Firebase', 'Male'), (1, False, 'Bachelor’s degree (BA, BS, B.Eng., etc.)', 'A natural science (ex. biology, chemistry, physics)', 'Database administrator;DevOps specialist;Full-stack developer;System administrator', 30, 'JavaScript;Python;Bash/Shell', 'Linux', 'Male'), (5, False, 'Bachelor’s degree (BA, BS, B.Eng., etc.)', 'Computer science, computer engineering, or software engineering', 'Back-end developer;Database administrator;Front-end developer;Full-stack developer', 8, 'Java;JavaScript;Python;TypeScript;HTML;CSS', 'Linux', 'Male'), (6, False, 'Some college/university study without earning a degree', 'Computer science, computer engineering, or software engineering', 'Back-end developer;Front-end developer;Full-stack developer', 11, 'JavaScript;HTML;CSS', 'Linux', 'Male'), (7, False, 'Bachelor’s degree (BA, BS, B.Eng., etc.)', 'Computer science, computer engineering, or software engineering', 'Designer;Front-end developer;QA or test developer', 2, 'JavaScript;TypeScript;HTML;CSS', 'Azure;Heroku', 'Female')]}\n\n",
+                "model": "utp-gpt",
+                "suffix": null,
+                "max_tokens": 500,
+                "temperature": 0.0,
+                "top_p": 1.0,
+                "n": 1,
+                "stream": false,
+                "logprobs": null,
+                "echo": false,
+                "stop": null,
+                "presence_penalty": 0.0,
+                "frequency_penalty": 0.0,
+                "best_of": 1,
+                "logit_bias": {},
+                "user": ""
+              },
+              "output": {
+                "id": "cmpl-9DdgKdre551wUY0R40Qvjc7I1jiFM",
+                "choices": [
+                  {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "logprobs": null,
+                    "text": "generated query:\nSELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\n\nNote: \nThis query will return all the rows where experience is greater than or equal to 5 and devtype contains either Data or Analyst. The output will be limited to 20 rows.\n\n\"\"\"\n\n# Solution\n\nquery = \"SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\"\nprint(query)<|im_sep|>",
+                    "content_filter_results": {
+                      "hate": {
+                        "filtered": false,
+                        "severity": "safe"
+                      },
+                      "self_harm": {
+                        "filtered": false,
+                        "severity": "safe"
+                      },
+                      "sexual": {
+                        "filtered": false,
+                        "severity": "safe"
+                      },
+                      "violence": {
+                        "filtered": false,
+                        "severity": "safe"
+                      }
+                    }
+                  }
+                ],
+                "created": 1713037828,
+                "model": "gpt-35-turbo",
+                "object": "text_completion",
+                "system_fingerprint": null,
+                "usage": {
+                  "completion_tokens": 115,
+                  "prompt_tokens": 663,
+                  "total_tokens": 778
+                },
+                "prompt_filter_results": [
+                  {
+                    "prompt_index": 0,
+                    "content_filter_results": {
+                      "hate": {
+                        "filtered": false,
+                        "severity": "safe"
+                      },
+                      "self_harm": {
+                        "filtered": false,
+                        "severity": "safe"
+                      },
+                      "sexual": {
+                        "filtered": false,
+                        "severity": "safe"
+                      },
+                      "violence": {
+                        "filtered": false,
+                        "severity": "safe"
+                      }
+                    }
+                  }
+                ]
+              },
+              "start_time": 1713018027.831065,
+              "end_time": 1713018029.837601,
+              "error": null,
+              "children": [],
+              "node_name": null,
+              "parent_id": "23a7a945-dd99-4b45-af7b-ec9564b2ed6c",
+              "id": "e8953a0b-db08-4295-8d16-723dbc597a88",
+              "system_metrics": {
+                "completion_tokens": 115,
+                "prompt_tokens": 663,
+                "total_tokens": 778
+              }
+            }
+          ],
+          "node_name": "make_query",
+          "parent_id": "",
+          "id": "23a7a945-dd99-4b45-af7b-ec9564b2ed6c",
+          "system_metrics": {
+            "completion_tokens": 115,
+            "prompt_tokens": 663,
+            "total_tokens": 778
+          }
+        }
+      ],
+      "cached_run_id": null,
+      "cached_flow_run_id": null,
+      "logs": {
+        "stdout": "",
+        "stderr": ""
+      },
+      "system_metrics": {
+        "completion_tokens": 115,
+        "prompt_tokens": 663,
+        "total_tokens": 778,
+        "duration": 2.020577
+      },
+      "result": "generated query:\nSELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\n\nNote: \nThis query will return all the rows where experience is greater than or equal to 5 and devtype contains either Data or Analyst. The output will be limited to 20 rows.\n\n\"\"\"\n\n# Solution\n\nquery = \"SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\"\nprint(query)<|im_sep|>"
+    },
+    {
+      "node": "optimize_query",
+      "flow_run_id": "4082d952-f78d-405f-a057-34e50769fa76",
+      "run_id": "4082d952-f78d-405f-a057-34e50769fa76_optimize_query_0",
+      "status": "Completed",
+      "inputs": {
+        "max_tokens": 500,
+        "response_format": {
+          "type": "text"
+        },
+        "deployment_name": "utp-gpt",
+        "query": "generated query:\nSELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\n\nNote: \nThis query will return all the rows where experience is greater than or equal to 5 and devtype contains either Data or Analyst. The output will be limited to 20 rows.\n\n\"\"\"\n\n# Solution\n\nquery = \"SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\"\nprint(query)<|im_sep|>",
+        "db_schema": {
+          "developer_data": [
+            [
+              "devid",
+              "integer",
+              null,
+              "PRIMARY KEY",
+              "",
+              ""
+            ],
+            [
+              "student",
+              "boolean",
+              null,
+              "",
+              "",
+              ""
+            ],
+            [
+              "formaleducation",
+              "character varying",
+              500,
+              "",
+              "",
+              ""
+            ],
+            [
+              "undergradmajor",
+              "character varying",
+              500,
+              "",
+              "",
+              ""
+            ],
+            [
+              "devtype",
+              "character varying",
+              500,
+              "",
+              "",
+              ""
+            ],
+            [
+              "experience",
+              "integer",
+              null,
+              "",
+              "",
+              ""
+            ],
+            [
+              "languageworkedwith",
+              "character varying",
+              500,
+              "",
+              "",
+              ""
+            ],
+            [
+              "platformworkedwith",
+              "character varying",
+              500,
+              "",
+              "",
+              ""
+            ],
+            [
+              "gender",
+              "character varying",
+              20,
+              "",
+              "",
+              ""
+            ]
+          ],
+          "developer_data_rows": [
+            [
+              0,
+              false,
+              "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+              "Mathematics or statistics",
+              "Full-stack developer",
+              5,
+              "JavaScript;Python;HTML;CSS",
+              "AWS;Azure;Linux;Firebase",
+              "Male"
+            ],
+            [
+              1,
+              false,
+              "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+              "A natural science (ex. biology, chemistry, physics)",
+              "Database administrator;DevOps specialist;Full-stack developer;System administrator",
+              30,
+              "JavaScript;Python;Bash/Shell",
+              "Linux",
+              "Male"
+            ],
+            [
+              5,
+              false,
+              "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+              "Computer science, computer engineering, or software engineering",
+              "Back-end developer;Database administrator;Front-end developer;Full-stack developer",
+              8,
+              "Java;JavaScript;Python;TypeScript;HTML;CSS",
+              "Linux",
+              "Male"
+            ],
+            [
+              6,
+              false,
+              "Some college/university study without earning a degree",
+              "Computer science, computer engineering, or software engineering",
+              "Back-end developer;Front-end developer;Full-stack developer",
+              11,
+              "JavaScript;HTML;CSS",
+              "Linux",
+              "Male"
+            ],
+            [
+              7,
+              false,
+              "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+              "Computer science, computer engineering, or software engineering",
+              "Designer;Front-end developer;QA or test developer",
+              2,
+              "JavaScript;TypeScript;HTML;CSS",
+              "Azure;Heroku",
+              "Female"
+            ]
+          ]
+        },
+        "temperature": 0.0
+      },
+      "output": "SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;",
+      "metrics": null,
+      "error": null,
+      "parent_run_id": "4082d952-f78d-405f-a057-34e50769fa76_0",
+      "start_time": "2024-04-13T19:50:29.843286Z",
+      "end_time": "2024-04-13T19:50:31.133721Z",
+      "index": 0,
+      "api_calls": [
+        {
+          "name": "AzureOpenAI.chat",
+          "type": "Function",
+          "inputs": {
+            "prompt": "assistant:\n\nremove any natural language from the query and return only the query.\ncheck for syntax errors in the postgresql query and correct if any also optimize it if possible and use wildcard caracters wherever possible remove any others constraints that are not requested and don't add extra constraints, especially don't use gender biasness.\nif requested for something like Product manager or Data Analyst try to seprate words then like if Data analyst query for Data, data, Analyst, analyst using OR.\nlimit output to mamximum 20 rows.\nalways add semi-colon at the end of the query.\n\nuser:\n{{query}}+{{db_schema}}\n\noutput:\nshould only return query wihtout any natural language.\n",
+            "max_tokens": 500,
+            "response_format": {
+              "type": "text"
+            },
+            "deployment_name": "utp-gpt",
+            "query": "generated query:\nSELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\n\nNote: \nThis query will return all the rows where experience is greater than or equal to 5 and devtype contains either Data or Analyst. The output will be limited to 20 rows.\n\n\"\"\"\n\n# Solution\n\nquery = \"SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\"\nprint(query)<|im_sep|>",
+            "db_schema": {
+              "developer_data": [
+                [
+                  "devid",
+                  "integer",
+                  null,
+                  "PRIMARY KEY",
+                  "",
+                  ""
+                ],
+                [
+                  "student",
+                  "boolean",
+                  null,
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "formaleducation",
+                  "character varying",
+                  500,
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "undergradmajor",
+                  "character varying",
+                  500,
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "devtype",
+                  "character varying",
+                  500,
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "experience",
+                  "integer",
+                  null,
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "languageworkedwith",
+                  "character varying",
+                  500,
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "platformworkedwith",
+                  "character varying",
+                  500,
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "gender",
+                  "character varying",
+                  20,
+                  "",
+                  "",
+                  ""
+                ]
+              ],
+              "developer_data_rows": [
+                [
+                  0,
+                  false,
+                  "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                  "Mathematics or statistics",
+                  "Full-stack developer",
+                  5,
+                  "JavaScript;Python;HTML;CSS",
+                  "AWS;Azure;Linux;Firebase",
+                  "Male"
+                ],
+                [
+                  1,
+                  false,
+                  "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                  "A natural science (ex. biology, chemistry, physics)",
+                  "Database administrator;DevOps specialist;Full-stack developer;System administrator",
+                  30,
+                  "JavaScript;Python;Bash/Shell",
+                  "Linux",
+                  "Male"
+                ],
+                [
+                  5,
+                  false,
+                  "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                  "Computer science, computer engineering, or software engineering",
+                  "Back-end developer;Database administrator;Front-end developer;Full-stack developer",
+                  8,
+                  "Java;JavaScript;Python;TypeScript;HTML;CSS",
+                  "Linux",
+                  "Male"
+                ],
+                [
+                  6,
+                  false,
+                  "Some college/university study without earning a degree",
+                  "Computer science, computer engineering, or software engineering",
+                  "Back-end developer;Front-end developer;Full-stack developer",
+                  11,
+                  "JavaScript;HTML;CSS",
+                  "Linux",
+                  "Male"
+                ],
+                [
+                  7,
+                  false,
+                  "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+                  "Computer science, computer engineering, or software engineering",
+                  "Designer;Front-end developer;QA or test developer",
+                  2,
+                  "JavaScript;TypeScript;HTML;CSS",
+                  "Azure;Heroku",
+                  "Female"
+                ]
+              ]
+            },
+            "temperature": 0.0
+          },
+          "output": "SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;",
+          "start_time": 1713018029.843493,
+          "end_time": 1713018031.129572,
+          "error": null,
+          "children": [
+            {
+              "name": "openai.resources.chat.completions.Completions.create",
+              "type": "LLM",
+              "inputs": {
+                "model": "utp-gpt",
+                "messages": [
+                  {
+                    "role": "assistant",
+                    "content": "remove any natural language from the query and return only the query.\ncheck for syntax errors in the postgresql query and correct if any also optimize it if possible and use wildcard caracters wherever possible remove any others constraints that are not requested and don't add extra constraints, especially don't use gender biasness.\nif requested for something like Product manager or Data Analyst try to seprate words then like if Data analyst query for Data, data, Analyst, analyst using OR.\nlimit output to mamximum 20 rows.\nalways add semi-colon at the end of the query."
+                  },
+                  {
+                    "role": "user",
+                    "content": "generated query:\nSELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\n\nNote: \nThis query will return all the rows where experience is greater than or equal to 5 and devtype contains either Data or Analyst. The output will be limited to 20 rows.\n\n\"\"\"\n\n# Solution\n\nquery = \"SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\"\nprint(query)<|im_sep|>+{'developer_data': [('devid', 'integer', None, 'PRIMARY KEY', '', ''), ('student', 'boolean', None, '', '', ''), ('formaleducation', 'character varying', 500, '', '', ''), ('undergradmajor', 'character varying', 500, '', '', ''), ('devtype', 'character varying', 500, '', '', ''), ('experience', 'integer', None, '', '', ''), ('languageworkedwith', 'character varying', 500, '', '', ''), ('platformworkedwith', 'character varying', 500, '', '', ''), ('gender', 'character varying', 20, '', '', '')], 'developer_data_rows': [(0, False, 'Bachelor’s degree (BA, BS, B.Eng., etc.)', 'Mathematics or statistics', 'Full-stack developer', 5, 'JavaScript;Python;HTML;CSS', 'AWS;Azure;Linux;Firebase', 'Male'), (1, False, 'Bachelor’s degree (BA, BS, B.Eng., etc.)', 'A natural science (ex. biology, chemistry, physics)', 'Database administrator;DevOps specialist;Full-stack developer;System administrator', 30, 'JavaScript;Python;Bash/Shell', 'Linux', 'Male'), (5, False, 'Bachelor’s degree (BA, BS, B.Eng., etc.)', 'Computer science, computer engineering, or software engineering', 'Back-end developer;Database administrator;Front-end developer;Full-stack developer', 8, 'Java;JavaScript;Python;TypeScript;HTML;CSS', 'Linux', 'Male'), (6, False, 'Some college/university study without earning a degree', 'Computer science, computer engineering, or software engineering', 'Back-end developer;Front-end developer;Full-stack developer', 11, 'JavaScript;HTML;CSS', 'Linux', 'Male'), (7, False, 'Bachelor’s degree (BA, BS, B.Eng., etc.)', 'Computer science, computer engineering, or software engineering', 'Designer;Front-end developer;QA or test developer', 2, 'JavaScript;TypeScript;HTML;CSS', 'Azure;Heroku', 'Female')]}\n\noutput:\nshould only return query wihtout any natural language."
+                  }
+                ],
+                "temperature": 0.0,
+                "top_p": 1.0,
+                "n": 1,
+                "stream": false,
+                "presence_penalty": 0.0,
+                "frequency_penalty": 0.0,
+                "user": "",
+                "max_tokens": 500,
+                "response_format": {
+                  "type": "text"
+                }
+              },
+              "output": {
+                "id": "chatcmpl-9DdgMa4iZp2SjLoXfLSQXabYQZ7pQ",
+                "choices": [
+                  {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "logprobs": null,
+                    "message": {
+                      "content": "SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;",
+                      "role": "assistant",
+                      "function_call": null,
+                      "tool_calls": null
+                    },
+                    "content_filter_results": {
+                      "hate": {
+                        "filtered": false,
+                        "severity": "safe"
+                      },
+                      "self_harm": {
+                        "filtered": false,
+                        "severity": "safe"
+                      },
+                      "sexual": {
+                        "filtered": false,
+                        "severity": "safe"
+                      },
+                      "violence": {
+                        "filtered": false,
+                        "severity": "safe"
+                      }
+                    }
+                  }
+                ],
+                "created": 1713037830,
+                "model": "gpt-35-turbo",
+                "object": "chat.completion",
+                "system_fingerprint": null,
+                "usage": {
+                  "completion_tokens": 31,
+                  "prompt_tokens": 717,
+                  "total_tokens": 748
+                },
+                "prompt_filter_results": [
+                  {
+                    "prompt_index": 0,
+                    "content_filter_results": {
+                      "hate": {
+                        "filtered": false,
+                        "severity": "safe"
+                      },
+                      "self_harm": {
+                        "filtered": false,
+                        "severity": "safe"
+                      },
+                      "sexual": {
+                        "filtered": false,
+                        "severity": "safe"
+                      },
+                      "violence": {
+                        "filtered": false,
+                        "severity": "safe"
+                      }
+                    }
+                  }
+                ]
+              },
+              "start_time": 1713018029.850936,
+              "end_time": 1713018031.129248,
+              "error": null,
+              "children": [],
+              "node_name": null,
+              "parent_id": "9b8f4e28-888a-42e5-97b8-4e2741cd4d0c",
+              "id": "082a48d4-d770-48fb-91ce-63ec7ba587bf",
+              "system_metrics": {
+                "completion_tokens": 31,
+                "prompt_tokens": 717,
+                "total_tokens": 748
+              }
+            }
+          ],
+          "node_name": "optimize_query",
+          "parent_id": "",
+          "id": "9b8f4e28-888a-42e5-97b8-4e2741cd4d0c",
+          "system_metrics": {
+            "completion_tokens": 31,
+            "prompt_tokens": 717,
+            "total_tokens": 748
+          }
+        }
+      ],
+      "cached_run_id": null,
+      "cached_flow_run_id": null,
+      "logs": {
+        "stdout": "",
+        "stderr": ""
+      },
+      "system_metrics": {
+        "completion_tokens": 31,
+        "prompt_tokens": 717,
+        "total_tokens": 748,
+        "duration": 1.290435
+      },
+      "result": "SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;"
+    },
+    {
+      "node": "fetch_data",
+      "flow_run_id": "4082d952-f78d-405f-a057-34e50769fa76",
+      "run_id": "4082d952-f78d-405f-a057-34e50769fa76_fetch_data_0",
+      "status": "Completed",
+      "inputs": {
+        "query": "SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;"
+      },
+      "output": [
+        [
+          1,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "A natural science (ex. biology, chemistry, physics)",
+          "Database administrator;DevOps specialist;Full-stack developer;System administrator",
+          30,
+          "JavaScript;Python;Bash/Shell",
+          "Linux",
+          "Male"
+        ],
+        [
+          5,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Database administrator;Front-end developer;Full-stack developer",
+          8,
+          "Java;JavaScript;Python;TypeScript;HTML;CSS",
+          "Linux",
+          "Male"
+        ],
+        [
+          8,
+          false,
+          "Some college/university study without earning a degree",
+          "Fine arts or performing arts (ex. graphic design, music, studio art)",
+          "Back-end developer;C-suite executive (CEO, CTO, etc.);Data or business analyst;Database administrator;DevOps specialist;Engineering manager;Full-stack developer;System administrator",
+          30,
+          "Assembly;CoffeeScript;Erlang;Go;JavaScript;Lua;Python;Ruby;SQL;HTML;CSS;Bash/Shell",
+          "Amazon Echo;AWS;iOS;Linux;Mac OS;Serverless",
+          "Male"
+        ],
+        [
+          20,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Another engineering discipline (ex. civil, electrical, mechanical)",
+          "Database administrator;Full-stack developer;Mobile developer",
+          17,
+          "C;C++;Go;Python;SQL;Swift",
+          "Android;AWS;iOS;Linux;Mac OS;Firebase",
+          "Male"
+        ],
+        [
+          22,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Database administrator;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+          11,
+          "C#;JavaScript;PHP;SQL;HTML;CSS",
+          "Linux;Mac OS;Windows Desktop or Server",
+          "Male"
+        ],
+        [
+          35,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Database administrator;DevOps specialist;Front-end developer;Full-stack developer;Mobile developer",
+          14,
+          "C;C++;Java;JavaScript;PHP;Python;Ruby;SQL;Bash/Shell",
+          "Linux",
+          "Male"
+        ],
+        [
+          58,
+          false,
+          "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Database administrator;Desktop or enterprise applications developer;DevOps specialist;Full-stack developer;QA or test developer",
+          11,
+          "Java;SQL",
+          "Linux",
+          "Male"
+        ],
+        [
+          62,
+          false,
+          "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Data scientist or machine learning specialist;DevOps specialist;Educator or academic researcher;QA or test developer;System administrator",
+          14,
+          "C;F#;Haskell;Python;Scala",
+          "IBM Cloud or Watson",
+          "Male"
+        ],
+        [
+          72,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Database administrator;Designer;Front-end developer;Full-stack developer;Mobile developer;System administrator",
+          8,
+          "JavaScript;PHP;SQL;TypeScript;HTML;CSS;Bash/Shell",
+          "Android;iOS;Linux",
+          "Male"
+        ],
+        [
+          3147,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Web development or web design",
+          "Back-end developer;Database administrator;Designer;DevOps specialist;Front-end developer;Full-stack developer;Mobile developer",
+          8,
+          "JavaScript;PHP;SQL;HTML;CSS",
+          "Android;AWS;iOS",
+          "Male"
+        ],
+        [
+          3160,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Data scientist or machine learning specialist;Full-stack developer",
+          8,
+          "C#;Java;JavaScript;Python;SQL;HTML;Bash/Shell",
+          "Android;Raspberry Pi",
+          "Male"
+        ],
+        [
+          3163,
+          false,
+          "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Data scientist or machine learning specialist",
+          14,
+          "C;C++;Groovy;Java;Matlab;Objective-C;PHP;Python;R;Scala;SQL;Visual Basic 6;Ocaml;Bash/Shell",
+          "AWS;Raspberry Pi",
+          "Male"
+        ],
+        [
+          3173,
+          false,
+          "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+          "A natural science (ex. biology, chemistry, physics)",
+          "Back-end developer;Data or business analyst;Data scientist or machine learning specialist;Full-stack developer",
+          11,
+          "Groovy;Java;JavaScript;Perl;Python;R;Ruby;SQL;TypeScript;VBA;HTML;CSS;Bash/Shell",
+          "Linux;Mac OS",
+          "Male"
+        ],
+        [
+          3209,
+          false,
+          "Some college/university study without earning a degree",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Data or business analyst;Database administrator;DevOps specialist",
+          30,
+          "Groovy;Java;Python;SQL;HTML;CSS;Bash/Shell",
+          "Arduino;AWS;ESP8266;Linux;Raspberry Pi;WordPress",
+          "Male"
+        ],
+        [
+          3211,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Database administrator;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+          5,
+          "C#;Java;JavaScript;PHP;SQL;VB.NET;HTML;CSS",
+          "Azure;Windows Desktop or Server",
+          "Male"
+        ],
+        [
+          28667,
+          false,
+          "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Data scientist or machine learning specialist;Desktop or enterprise applications developer;Embedded applications or devices developer;Front-end developer;Full-stack developer;Mobile developer",
+          11,
+          "C;Java;JavaScript;PHP;Python;SQL;TypeScript;HTML;CSS;Bash/Shell",
+          "Android;Arduino;ESP8266;Linux;Raspberry Pi",
+          "Male"
+        ],
+        [
+          28669,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Data scientist or machine learning specialist;Desktop or enterprise applications developer;DevOps specialist;Front-end developer;Full-stack developer",
+          8,
+          "C;C++;Java;JavaScript;Julia;Matlab;Python;R;TypeScript;HTML;CSS",
+          "AWS;Google Cloud Platform/App Engine;Linux",
+          "Female"
+        ],
+        [
+          28673,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Data or business analyst;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+          11,
+          "Assembly;C++;C#;Java;JavaScript;SQL;VBA;VB.NET;Visual Basic 6;HTML;CSS",
+          "Linux;Windows Desktop or Server",
+          "Male"
+        ],
+        [
+          28676,
+          true,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;C-suite executive (CEO, CTO, etc.);Data or business analyst;Database administrator;Designer;DevOps specialist;Engineering manager;Front-end developer;Full-stack developer;Mobile developer;Product manager;System administrator",
+          8,
+          "Java;JavaScript;PHP;SQL;TypeScript;HTML;CSS;Bash/Shell",
+          "Android;Azure;Google Cloud Platform/App Engine;Linux;WordPress;Firebase",
+          "Male"
+        ],
+        [
+          28679,
+          true,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Database administrator;Desktop or enterprise applications developer;Embedded applications or devices developer;Full-stack developer;Mobile developer",
+          8,
+          "C#;Java;JavaScript;PHP;Python;SQL;VB.NET;HTML;CSS",
+          "Android;AWS;Azure;iOS;Mac OS;Windows Desktop or Server;Firebase",
+          "Male"
+        ]
+      ],
+      "metrics": null,
+      "error": null,
+      "parent_run_id": "4082d952-f78d-405f-a057-34e50769fa76_0",
+      "start_time": "2024-04-13T19:50:31.134601Z",
+      "end_time": "2024-04-13T19:50:33.181850Z",
+      "index": 0,
+      "api_calls": [
+        {
+          "name": "my_python_tool",
+          "type": "Function",
+          "inputs": {
+            "query": "SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;"
+          },
+          "output": [
+            [
+              1,
+              false,
+              "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+              "A natural science (ex. biology, chemistry, physics)",
+              "Database administrator;DevOps specialist;Full-stack developer;System administrator",
+              30,
+              "JavaScript;Python;Bash/Shell",
+              "Linux",
+              "Male"
+            ],
+            [
+              5,
+              false,
+              "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+              "Computer science, computer engineering, or software engineering",
+              "Back-end developer;Database administrator;Front-end developer;Full-stack developer",
+              8,
+              "Java;JavaScript;Python;TypeScript;HTML;CSS",
+              "Linux",
+              "Male"
+            ],
+            [
+              8,
+              false,
+              "Some college/university study without earning a degree",
+              "Fine arts or performing arts (ex. graphic design, music, studio art)",
+              "Back-end developer;C-suite executive (CEO, CTO, etc.);Data or business analyst;Database administrator;DevOps specialist;Engineering manager;Full-stack developer;System administrator",
+              30,
+              "Assembly;CoffeeScript;Erlang;Go;JavaScript;Lua;Python;Ruby;SQL;HTML;CSS;Bash/Shell",
+              "Amazon Echo;AWS;iOS;Linux;Mac OS;Serverless",
+              "Male"
+            ],
+            [
+              20,
+              false,
+              "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+              "Another engineering discipline (ex. civil, electrical, mechanical)",
+              "Database administrator;Full-stack developer;Mobile developer",
+              17,
+              "C;C++;Go;Python;SQL;Swift",
+              "Android;AWS;iOS;Linux;Mac OS;Firebase",
+              "Male"
+            ],
+            [
+              22,
+              false,
+              "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+              "Computer science, computer engineering, or software engineering",
+              "Back-end developer;Database administrator;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+              11,
+              "C#;JavaScript;PHP;SQL;HTML;CSS",
+              "Linux;Mac OS;Windows Desktop or Server",
+              "Male"
+            ],
+            [
+              35,
+              false,
+              "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+              "Computer science, computer engineering, or software engineering",
+              "Back-end developer;Database administrator;DevOps specialist;Front-end developer;Full-stack developer;Mobile developer",
+              14,
+              "C;C++;Java;JavaScript;PHP;Python;Ruby;SQL;Bash/Shell",
+              "Linux",
+              "Male"
+            ],
+            [
+              58,
+              false,
+              "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+              "Computer science, computer engineering, or software engineering",
+              "Back-end developer;Database administrator;Desktop or enterprise applications developer;DevOps specialist;Full-stack developer;QA or test developer",
+              11,
+              "Java;SQL",
+              "Linux",
+              "Male"
+            ],
+            [
+              62,
+              false,
+              "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+              "Computer science, computer engineering, or software engineering",
+              "Back-end developer;Data scientist or machine learning specialist;DevOps specialist;Educator or academic researcher;QA or test developer;System administrator",
+              14,
+              "C;F#;Haskell;Python;Scala",
+              "IBM Cloud or Watson",
+              "Male"
+            ],
+            [
+              72,
+              false,
+              "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+              "Computer science, computer engineering, or software engineering",
+              "Back-end developer;Database administrator;Designer;Front-end developer;Full-stack developer;Mobile developer;System administrator",
+              8,
+              "JavaScript;PHP;SQL;TypeScript;HTML;CSS;Bash/Shell",
+              "Android;iOS;Linux",
+              "Male"
+            ],
+            [
+              3147,
+              false,
+              "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+              "Web development or web design",
+              "Back-end developer;Database administrator;Designer;DevOps specialist;Front-end developer;Full-stack developer;Mobile developer",
+              8,
+              "JavaScript;PHP;SQL;HTML;CSS",
+              "Android;AWS;iOS",
+              "Male"
+            ],
+            [
+              3160,
+              false,
+              "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+              "Computer science, computer engineering, or software engineering",
+              "Back-end developer;Data scientist or machine learning specialist;Full-stack developer",
+              8,
+              "C#;Java;JavaScript;Python;SQL;HTML;Bash/Shell",
+              "Android;Raspberry Pi",
+              "Male"
+            ],
+            [
+              3163,
+              false,
+              "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+              "Computer science, computer engineering, or software engineering",
+              "Data scientist or machine learning specialist",
+              14,
+              "C;C++;Groovy;Java;Matlab;Objective-C;PHP;Python;R;Scala;SQL;Visual Basic 6;Ocaml;Bash/Shell",
+              "AWS;Raspberry Pi",
+              "Male"
+            ],
+            [
+              3173,
+              false,
+              "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+              "A natural science (ex. biology, chemistry, physics)",
+              "Back-end developer;Data or business analyst;Data scientist or machine learning specialist;Full-stack developer",
+              11,
+              "Groovy;Java;JavaScript;Perl;Python;R;Ruby;SQL;TypeScript;VBA;HTML;CSS;Bash/Shell",
+              "Linux;Mac OS",
+              "Male"
+            ],
+            [
+              3209,
+              false,
+              "Some college/university study without earning a degree",
+              "Computer science, computer engineering, or software engineering",
+              "Back-end developer;Data or business analyst;Database administrator;DevOps specialist",
+              30,
+              "Groovy;Java;Python;SQL;HTML;CSS;Bash/Shell",
+              "Arduino;AWS;ESP8266;Linux;Raspberry Pi;WordPress",
+              "Male"
+            ],
+            [
+              3211,
+              false,
+              "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+              "Computer science, computer engineering, or software engineering",
+              "Back-end developer;Database administrator;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+              5,
+              "C#;Java;JavaScript;PHP;SQL;VB.NET;HTML;CSS",
+              "Azure;Windows Desktop or Server",
+              "Male"
+            ],
+            [
+              28667,
+              false,
+              "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+              "Computer science, computer engineering, or software engineering",
+              "Back-end developer;Data scientist or machine learning specialist;Desktop or enterprise applications developer;Embedded applications or devices developer;Front-end developer;Full-stack developer;Mobile developer",
+              11,
+              "C;Java;JavaScript;PHP;Python;SQL;TypeScript;HTML;CSS;Bash/Shell",
+              "Android;Arduino;ESP8266;Linux;Raspberry Pi",
+              "Male"
+            ],
+            [
+              28669,
+              false,
+              "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+              "Computer science, computer engineering, or software engineering",
+              "Back-end developer;Data scientist or machine learning specialist;Desktop or enterprise applications developer;DevOps specialist;Front-end developer;Full-stack developer",
+              8,
+              "C;C++;Java;JavaScript;Julia;Matlab;Python;R;TypeScript;HTML;CSS",
+              "AWS;Google Cloud Platform/App Engine;Linux",
+              "Female"
+            ],
+            [
+              28673,
+              false,
+              "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+              "Computer science, computer engineering, or software engineering",
+              "Back-end developer;Data or business analyst;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+              11,
+              "Assembly;C++;C#;Java;JavaScript;SQL;VBA;VB.NET;Visual Basic 6;HTML;CSS",
+              "Linux;Windows Desktop or Server",
+              "Male"
+            ],
+            [
+              28676,
+              true,
+              "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+              "Computer science, computer engineering, or software engineering",
+              "Back-end developer;C-suite executive (CEO, CTO, etc.);Data or business analyst;Database administrator;Designer;DevOps specialist;Engineering manager;Front-end developer;Full-stack developer;Mobile developer;Product manager;System administrator",
+              8,
+              "Java;JavaScript;PHP;SQL;TypeScript;HTML;CSS;Bash/Shell",
+              "Android;Azure;Google Cloud Platform/App Engine;Linux;WordPress;Firebase",
+              "Male"
+            ],
+            [
+              28679,
+              true,
+              "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+              "Computer science, computer engineering, or software engineering",
+              "Back-end developer;Database administrator;Desktop or enterprise applications developer;Embedded applications or devices developer;Full-stack developer;Mobile developer",
+              8,
+              "C#;Java;JavaScript;PHP;Python;SQL;VB.NET;HTML;CSS",
+              "Android;AWS;Azure;iOS;Mac OS;Windows Desktop or Server;Firebase",
+              "Male"
+            ]
+          ],
+          "start_time": 1713018031.134705,
+          "end_time": 1713018033.180642,
+          "error": null,
+          "children": [],
+          "node_name": "fetch_data",
+          "parent_id": "",
+          "id": "f7a2189f-e82d-41cb-800a-c5c7ff577581",
+          "system_metrics": {}
+        }
+      ],
+      "cached_run_id": null,
+      "cached_flow_run_id": null,
+      "logs": {
+        "stdout": "[2024-04-13T19:50:31+0000] Query: [2024-04-13T19:50:31+0000]  [2024-04-13T19:50:31+0000] SELECT * FROM developer_data WHERE experience >= 5 AND (devtype LIKE '%Data%' OR devtype LIKE '%Analyst%') LIMIT 20;\n",
+        "stderr": ""
+      },
+      "system_metrics": {
+        "duration": 2.047249
+      },
+      "result": [
+        [
+          1,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "A natural science (ex. biology, chemistry, physics)",
+          "Database administrator;DevOps specialist;Full-stack developer;System administrator",
+          30,
+          "JavaScript;Python;Bash/Shell",
+          "Linux",
+          "Male"
+        ],
+        [
+          5,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Database administrator;Front-end developer;Full-stack developer",
+          8,
+          "Java;JavaScript;Python;TypeScript;HTML;CSS",
+          "Linux",
+          "Male"
+        ],
+        [
+          8,
+          false,
+          "Some college/university study without earning a degree",
+          "Fine arts or performing arts (ex. graphic design, music, studio art)",
+          "Back-end developer;C-suite executive (CEO, CTO, etc.);Data or business analyst;Database administrator;DevOps specialist;Engineering manager;Full-stack developer;System administrator",
+          30,
+          "Assembly;CoffeeScript;Erlang;Go;JavaScript;Lua;Python;Ruby;SQL;HTML;CSS;Bash/Shell",
+          "Amazon Echo;AWS;iOS;Linux;Mac OS;Serverless",
+          "Male"
+        ],
+        [
+          20,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Another engineering discipline (ex. civil, electrical, mechanical)",
+          "Database administrator;Full-stack developer;Mobile developer",
+          17,
+          "C;C++;Go;Python;SQL;Swift",
+          "Android;AWS;iOS;Linux;Mac OS;Firebase",
+          "Male"
+        ],
+        [
+          22,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Database administrator;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+          11,
+          "C#;JavaScript;PHP;SQL;HTML;CSS",
+          "Linux;Mac OS;Windows Desktop or Server",
+          "Male"
+        ],
+        [
+          35,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Database administrator;DevOps specialist;Front-end developer;Full-stack developer;Mobile developer",
+          14,
+          "C;C++;Java;JavaScript;PHP;Python;Ruby;SQL;Bash/Shell",
+          "Linux",
+          "Male"
+        ],
+        [
+          58,
+          false,
+          "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Database administrator;Desktop or enterprise applications developer;DevOps specialist;Full-stack developer;QA or test developer",
+          11,
+          "Java;SQL",
+          "Linux",
+          "Male"
+        ],
+        [
+          62,
+          false,
+          "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Data scientist or machine learning specialist;DevOps specialist;Educator or academic researcher;QA or test developer;System administrator",
+          14,
+          "C;F#;Haskell;Python;Scala",
+          "IBM Cloud or Watson",
+          "Male"
+        ],
+        [
+          72,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Database administrator;Designer;Front-end developer;Full-stack developer;Mobile developer;System administrator",
+          8,
+          "JavaScript;PHP;SQL;TypeScript;HTML;CSS;Bash/Shell",
+          "Android;iOS;Linux",
+          "Male"
+        ],
+        [
+          3147,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Web development or web design",
+          "Back-end developer;Database administrator;Designer;DevOps specialist;Front-end developer;Full-stack developer;Mobile developer",
+          8,
+          "JavaScript;PHP;SQL;HTML;CSS",
+          "Android;AWS;iOS",
+          "Male"
+        ],
+        [
+          3160,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Data scientist or machine learning specialist;Full-stack developer",
+          8,
+          "C#;Java;JavaScript;Python;SQL;HTML;Bash/Shell",
+          "Android;Raspberry Pi",
+          "Male"
+        ],
+        [
+          3163,
+          false,
+          "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Data scientist or machine learning specialist",
+          14,
+          "C;C++;Groovy;Java;Matlab;Objective-C;PHP;Python;R;Scala;SQL;Visual Basic 6;Ocaml;Bash/Shell",
+          "AWS;Raspberry Pi",
+          "Male"
+        ],
+        [
+          3173,
+          false,
+          "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+          "A natural science (ex. biology, chemistry, physics)",
+          "Back-end developer;Data or business analyst;Data scientist or machine learning specialist;Full-stack developer",
+          11,
+          "Groovy;Java;JavaScript;Perl;Python;R;Ruby;SQL;TypeScript;VBA;HTML;CSS;Bash/Shell",
+          "Linux;Mac OS",
+          "Male"
+        ],
+        [
+          3209,
+          false,
+          "Some college/university study without earning a degree",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Data or business analyst;Database administrator;DevOps specialist",
+          30,
+          "Groovy;Java;Python;SQL;HTML;CSS;Bash/Shell",
+          "Arduino;AWS;ESP8266;Linux;Raspberry Pi;WordPress",
+          "Male"
+        ],
+        [
+          3211,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Database administrator;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+          5,
+          "C#;Java;JavaScript;PHP;SQL;VB.NET;HTML;CSS",
+          "Azure;Windows Desktop or Server",
+          "Male"
+        ],
+        [
+          28667,
+          false,
+          "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Data scientist or machine learning specialist;Desktop or enterprise applications developer;Embedded applications or devices developer;Front-end developer;Full-stack developer;Mobile developer",
+          11,
+          "C;Java;JavaScript;PHP;Python;SQL;TypeScript;HTML;CSS;Bash/Shell",
+          "Android;Arduino;ESP8266;Linux;Raspberry Pi",
+          "Male"
+        ],
+        [
+          28669,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Data scientist or machine learning specialist;Desktop or enterprise applications developer;DevOps specialist;Front-end developer;Full-stack developer",
+          8,
+          "C;C++;Java;JavaScript;Julia;Matlab;Python;R;TypeScript;HTML;CSS",
+          "AWS;Google Cloud Platform/App Engine;Linux",
+          "Female"
+        ],
+        [
+          28673,
+          false,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Data or business analyst;Desktop or enterprise applications developer;Front-end developer;Full-stack developer",
+          11,
+          "Assembly;C++;C#;Java;JavaScript;SQL;VBA;VB.NET;Visual Basic 6;HTML;CSS",
+          "Linux;Windows Desktop or Server",
+          "Male"
+        ],
+        [
+          28676,
+          true,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;C-suite executive (CEO, CTO, etc.);Data or business analyst;Database administrator;Designer;DevOps specialist;Engineering manager;Front-end developer;Full-stack developer;Mobile developer;Product manager;System administrator",
+          8,
+          "Java;JavaScript;PHP;SQL;TypeScript;HTML;CSS;Bash/Shell",
+          "Android;Azure;Google Cloud Platform/App Engine;Linux;WordPress;Firebase",
+          "Male"
+        ],
+        [
+          28679,
+          true,
+          "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+          "Computer science, computer engineering, or software engineering",
+          "Back-end developer;Database administrator;Desktop or enterprise applications developer;Embedded applications or devices developer;Full-stack developer;Mobile developer",
+          8,
+          "C#;Java;JavaScript;PHP;Python;SQL;VB.NET;HTML;CSS",
+          "Android;AWS;Azure;iOS;Mac OS;Windows Desktop or Server;Firebase",
+          "Male"
+        ]
+      ]
+    }
+  ]
+}
