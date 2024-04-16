@@ -1,5 +1,6 @@
 from promptflow.core import tool
 import psycopg2
+import os
 # The inputs section will change based on the arguments of the tool function, after you save the code
 # Adding type to arguments and return value will help the system show the types properly
 # Please update the function name/signature per need
@@ -7,10 +8,10 @@ import psycopg2
 def get_table_rows():
     # Connect to your PostgreSQL database
     conn = psycopg2.connect(
-        dbname="utp",
+        dbname=os.environ.get("DB_NAME"),
         user="citus",
-        password="tduiG@1234",
-        host="c-utp-can-db.b5kyj327to67bg.postgres.cosmos.azure.com",
+        password=os.environ.get("DB_PASSWORD"),
+        host=os.environ.get("DB_HOST"),
         port=5432,
         sslmode="require"
     )
